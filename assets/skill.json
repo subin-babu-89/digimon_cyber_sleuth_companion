@@ -1,0 +1,5973 @@
+[
+ {
+   "Name": "Wolkenpalm I",
+   "Description": "Physical attack, 65 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Koromon",
+   "Lv": 5
+ },
+ {
+   "Name": "Wolkenpalm I",
+   "Description": "Physical attack, 65 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Agumon (Blk)",
+   "Lv": 6
+ },
+ {
+   "Name": "Wolkenpalm I",
+   "Description": "Physical attack, 65 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Guilmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Wolkenpalm I",
+   "Description": "Physical attack, 65 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Dorumon",
+   "Lv": 6
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Growlmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Greymon",
+   "Lv": 10
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Greymon (Blue)",
+   "Lv": 10
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "GeoGreymon",
+   "Lv": 10
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Tyrannomon",
+   "Lv": 18
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Meramon",
+   "Lv": 18
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Gigadramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Megadramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Wolkenpalm II",
+   "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "WereGarurumon (Blk)",
+   "Lv": 25
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Hackmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "SkullMeramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "DoruGreymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "BlueMeramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "WarGrowlmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalGreymon",
+   "Lv": 45
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalGreymon (Blue)",
+   "Lv": 45
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "RizeGreymon",
+   "Lv": 45
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "WarGreymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Gaiomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Gankoomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "BlackWarGreymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Flamedramon",
+   "Lv": 20
+ },
+ {
+   "Name": "Wolkenpalm III",
+   "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Beelzemon BM",
+   "Lv": 50
+ },
+ {
+   "Name": "Burst Flame I",
+   "Description": "Magic attack, 55 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Gabumon",
+   "Lv": 6
+ },
+ {
+   "Name": "Burst Flame I",
+   "Description": "Magic attack, 55 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "ToyAgumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Burst Flame II",
+   "Description": "Magic attack, 75 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kyubimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Burst Flame II",
+   "Description": "Magic attack, 75 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Birdramon",
+   "Lv": 10
+ },
+ {
+   "Name": "Burst Flame II",
+   "Description": "Magic attack, 75 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Meramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Burst Flame III",
+   "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Garudamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Burst Flame III",
+   "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "BlueMeramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Burst Flame III",
+   "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalTyrannomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Burst Flame III",
+   "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalMamemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Burst Flame III",
+   "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Gallantmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Burst Flame III",
+   "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Barbamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Burst Flame III",
+   "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Hououmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Greymon (Blue)",
+   "Lv": 18
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Birdramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Meteormon",
+   "Lv": 25
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Garudamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "CannonBeemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Pumpkinmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "BlueMeramon",
+   "Lv": 15
+ },
+ {
+   "Name": "Meteor Fall I",
+   "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "WereGarurumon",
+   "Lv": 25
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MetalGreymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MetalGreymon (Blue)",
+   "Lv": 35
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "RizeGreymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Rapidmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "WarGreymon",
+   "Lv": 20
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Examon",
+   "Lv": 50
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Gaiomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Gankoomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Dynasmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "BlackWarGreymon",
+   "Lv": 20
+ },
+ {
+   "Name": "Meteor Fall II",
+   "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Beelzemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Imperialdramon DM",
+   "Lv": 50
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Imperialdramon FM",
+   "Lv": 50
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "WarGreymon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Gaiomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Gankoomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Jesmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "ShineGreymon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Diaboromon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Creepymon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Gallantmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "BlackWarGreymon",
+   "Lv": 80
+ },
+ {
+   "Name": "Meteor Fall III",
+   "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Beelzemon BM",
+   "Lv": 80
+ },
+ {
+   "Name": "Panic Wisp",
+   "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.",
+   "SP Cost": 10,
+   "Learned": "Gazimon",
+   "Lv": 12
+ },
+ {
+   "Name": "Panic Wisp",
+   "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.",
+   "SP Cost": 10,
+   "Learned": "DemiDevimon",
+   "Lv": 6
+ },
+ {
+   "Name": "Panic Wisp",
+   "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.",
+   "SP Cost": 10,
+   "Learned": "Kyubimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Panic Wisp",
+   "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.",
+   "SP Cost": 10,
+   "Learned": "Sukamon",
+   "Lv": 10
+ },
+ {
+   "Name": "Panic Wisp",
+   "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.",
+   "SP Cost": 10,
+   "Learned": "CannonBeemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Panic Wisp",
+   "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.",
+   "SP Cost": 10,
+   "Learned": "Megadramon(15), ",
+   "Lv": 15
+ },
+ {
+   "Name": "Panic Wisp",
+   "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.",
+   "SP Cost": 10,
+   "Learned": "Monzaemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Ice Archery I",
+   "Description": "Physical attack, 65 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Syakomon",
+   "Lv": 6
+ },
+ {
+   "Name": "Ice Archery I",
+   "Description": "Physical attack, 65 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Betamon",
+   "Lv": 6
+ },
+ {
+   "Name": "Ice Archery II",
+   "Description": "Physical attack, 85 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "IceDevimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Ice Archery II",
+   "Description": "Physical attack, 85 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Ikkakumon",
+   "Lv": 10
+ },
+ {
+   "Name": "Ice Archery II",
+   "Description": "Physical attack, 85 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Gaogamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Ice Archery II",
+   "Description": "Physical attack, 85 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Numemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Ice Archery II",
+   "Description": "Physical attack, 85 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Frigimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Zudomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "ShogunGekomon",
+   "Lv": 45
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Panjyamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Whamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Vikemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalGarurumon",
+   "Lv": 20
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalGarurumon (Blk)",
+   "Lv": 35
+ },
+ {
+   "Name": "Ice Archery III",
+   "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Leviamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Hydro Water I",
+   "Description": "Magic attack, 55 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Bukamon",
+   "Lv": 5
+ },
+ {
+   "Name": "Hydro Water I",
+   "Description": "Magic attack, 55 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Otamamon",
+   "Lv": 5
+ },
+ {
+   "Name": "Hydro Water II",
+   "Description": "Magic attack, 75 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Gekomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Hydro Water II",
+   "Description": "Magic attack, 75 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Seadramon",
+   "Lv": 10
+ },
+ {
+   "Name": "Hydro Water II",
+   "Description": "Magic attack, 75 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Socerimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Panjyamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Whamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MegaSeadramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Alphamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "ChaosGallantmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Plesiomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MarineAngemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Hydro Water III",
+   "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalSeadramon",
+   "Lv": 20
+ },
+ {
+   "Name": "Ocean Wave I",
+   "Description": "Magic attack, 20 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Ikkakumon",
+   "Lv": 18
+ },
+ {
+   "Name": "Ocean Wave I",
+   "Description": "Magic attack, 20 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Frigimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Ocean Wave I",
+   "Description": "Magic attack, 20 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "ShogunGekomon",
+   "Lv": 15
+ },
+ {
+   "Name": "Ocean Wave I",
+   "Description": "Magic attack, 20 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Panjyamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Ocean Wave I",
+   "Description": "Magic attack, 20 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Piximon",
+   "Lv": 25
+ },
+ {
+   "Name": "Ocean Wave I",
+   "Description": "Magic attack, 20 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Whamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Ocean Wave II",
+   "Description": "Magic attack, 35 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Zudomon",
+   "Lv": 45
+ },
+ {
+   "Name": "Ocean Wave II",
+   "Description": "Magic attack, 35 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "ShogunGekomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Ocean Wave II",
+   "Description": "Magic attack, 35 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Plesiomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Ocean Wave II",
+   "Description": "Magic attack, 35 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MarineAngemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Ocean Wave II",
+   "Description": "Magic attack, 35 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MetalSeadramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Ocean Wave III",
+   "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Vikemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Ocean Wave III",
+   "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "ChaosGallantmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Ocean Wave III",
+   "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Dianamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Ocean Wave III",
+   "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Plesiomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Ocean Wave III",
+   "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "MetalGarurumon",
+   "Lv": 80
+ },
+ {
+   "Name": "Ocean Wave III",
+   "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "MetalSeadramon",
+   "Lv": 80
+ },
+ {
+   "Name": "Ocean Wave III",
+   "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Leviamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Idle Bubble",
+   "Description": "Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.",
+   "SP Cost": 10,
+   "Learned": "Impmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Idle Bubble",
+   "Description": "Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.",
+   "SP Cost": 10,
+   "Learned": "Gomamon",
+   "Lv": 6
+ },
+ {
+   "Name": "Idle Bubble",
+   "Description": "Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.",
+   "SP Cost": 10,
+   "Learned": "ShellNumemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Idle Bubble",
+   "Description": "Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.",
+   "SP Cost": 10,
+   "Learned": "Clockmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Idle Bubble",
+   "Description": "Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.",
+   "SP Cost": 10,
+   "Learned": "ShogunGekomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Idle Bubble",
+   "Description": "Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.",
+   "SP Cost": 10,
+   "Learned": "MegaSeadramon",
+   "Lv": 15
+ },
+ {
+   "Name": "Crescent Leaf I",
+   "Description": "Physical attack, 65 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Yokomon",
+   "Lv": 5
+ },
+ {
+   "Name": "Crescent Leaf I",
+   "Description": "Physical attack, 65 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Palmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Crescent Leaf II",
+   "Description": "Physical attack, 85 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Woodmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Crescent Leaf II",
+   "Description": "Physical attack, 85 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kabuterimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Crescent Leaf II",
+   "Description": "Physical attack, 85 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kuwagamon",
+   "Lv": 10
+ },
+ {
+   "Name": "Crescent Leaf II",
+   "Description": "Physical attack, 85 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Stingmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Crescent Leaf II",
+   "Description": "Physical attack, 85 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Togemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Crescent Leaf II",
+   "Description": "Physical attack, 85 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Vegiemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Crescent Leaf III",
+   "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Okuwamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Crescent Leaf III",
+   "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Cherrymon",
+   "Lv": 45
+ },
+ {
+   "Name": "Crescent Leaf III",
+   "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "GranKuwagamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Crescent Leaf III",
+   "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "TigerVespamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Crescent Leaf III",
+   "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Titamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Crescent Leaf III",
+   "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Puppetmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Crescent Leaf III",
+   "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Minervamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Gaia Element I",
+   "Description": "Magic attack, 55 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Tanemon",
+   "Lv": 5
+ },
+ {
+   "Name": "Gaia Element I",
+   "Description": "Magic attack, 55 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Renamon",
+   "Lv": 6
+ },
+ {
+   "Name": "Gaia Element II",
+   "Description": "Magic attack, 75 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Woodmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Gaia Element II",
+   "Description": "Magic attack, 75 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Sunflowmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MegaKabuterimon",
+   "Lv": 35
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Lilamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Lillymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Vikemon",
+   "Lv": 60
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Craniamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MegaGargomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "HerculesKabuterimon",
+   "Lv": 20
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Crusadermon",
+   "Lv": 65
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Rosemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Gaia Element III",
+   "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Lotusmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Rune Forest I",
+   "Description": "Magic attack, 20 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "MegaKabuterimon",
+   "Lv": 15
+ },
+ {
+   "Name": "Rune Forest I",
+   "Description": "Magic attack, 20 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Cherrymon",
+   "Lv": 15
+ },
+ {
+   "Name": "Rune Forest I",
+   "Description": "Magic attack, 20 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Digitamamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Rune Forest I",
+   "Description": "Magic attack, 20 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Monzaemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Rune Forest I",
+   "Description": "Magic attack, 20 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Lilamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Rune Forest I",
+   "Description": "Magic attack, 20 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Lillymon",
+   "Lv": 15
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MegaKabuterimon",
+   "Lv": 45
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Cherrymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Lilamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Lillymon",
+   "Lv": 45
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Puppetmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "HerculesKabuterimon",
+   "Lv": 50
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Rosemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Rune Forest II",
+   "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Lotusmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Rune Forest III",
+   "Description": "Magic attack, 65 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Puppetmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Rune Forest III",
+   "Description": "Magic attack, 65 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "HerculesKabuterimon",
+   "Lv": 80
+ },
+ {
+   "Name": "Rune Forest III",
+   "Description": "Magic attack, 65 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Rosemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Rune Forest III",
+   "Description": "Magic attack, 65 Plant damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Lotusmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Lalamon",
+   "Lv": 6
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Wormmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Geremon",
+   "Lv": 10
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Numemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Vegiemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Okuwamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Cyberdramon",
+   "Lv": 15
+ },
+ {
+   "Name": "Venom Trap",
+   "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.",
+   "SP Cost": 10,
+   "Learned": "Vademon",
+   "Lv": 15
+ },
+ {
+   "Name": "Nanomachine Break I",
+   "Description": "Physical attack, 65 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Tentomon",
+   "Lv": 6
+ },
+ {
+   "Name": "Nanomachine Break I",
+   "Description": "Physical attack, 65 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Hagurumon",
+   "Lv": 6
+ },
+ {
+   "Name": "Nanomachine Break II",
+   "Description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Guardromon",
+   "Lv": 10
+ },
+ {
+   "Name": "Nanomachine Break II",
+   "Description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kurisarimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Nanomachine Break II",
+   "Description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Geremon",
+   "Lv": 25
+ },
+ {
+   "Name": "Nanomachine Break II",
+   "Description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Tankmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Nanomachine Break II",
+   "Description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Waspmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Andromon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "CannonBeemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "GrapLeomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalTyrannomon",
+   "Lv": 45
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalMamemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Rapidmon",
+   "Lv": 45
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "TigerVespamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Boltmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Machinedramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nanomachine Break III",
+   "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "RustTyrannomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Heaven's Thunder I",
+   "Description": "Magic attack, 55 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Elecmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Heaven's Thunder I",
+   "Description": "Magic attack, 55 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Hagurumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Heaven's Thunder II",
+   "Description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Guardromon",
+   "Lv": 25
+ },
+ {
+   "Name": "Heaven's Thunder II",
+   "Description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kabuterimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Heaven's Thunder II",
+   "Description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Clockmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Heaven's Thunder III",
+   "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Gigadramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Heaven's Thunder III",
+   "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Ebemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Heaven's Thunder III",
+   "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "GroundLocomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Heaven's Thunder III",
+   "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MegaGargomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Heaven's Thunder III",
+   "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "HiAndromon",
+   "Lv": 50
+ },
+ {
+   "Name": "Heaven's Thunder III",
+   "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalGarurumon (Blk)",
+   "Lv": 50
+ },
+ {
+   "Name": "Heaven's Thunder III",
+   "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalSeadramon",
+   "Lv": 65
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Gargomon",
+   "Lv": 18
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Okuwamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "CannonBeemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "GrapLeomon",
+   "Lv": 15
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Datamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Paildramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "MachGaogamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "MegaSeadramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Crowmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Thunder Fall I",
+   "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Rapidmon",
+   "Lv": 15
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Rapidmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Ebemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "GroundLocomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MegaGargomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Creepymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "HiAndromon",
+   "Lv": 20
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "HerculesKabuterimon",
+   "Lv": 35
+ },
+ {
+   "Name": "Thunder Fall II",
+   "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MetalGarurumon (Blk)",
+   "Lv": 20
+ },
+ {
+   "Name": "Thunder Fall III",
+   "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "GroundLocomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Thunder Fall III",
+   "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "TigerVespamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Thunder Fall III",
+   "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "HiAndromon",
+   "Lv": 80
+ },
+ {
+   "Name": "Thunder Fall III",
+   "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Boltmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Thunder Fall III",
+   "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Machinedramon",
+   "Lv": 80
+ },
+ {
+   "Name": "Thunder Fall III",
+   "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "MetalGarurumon(Blk)",
+   "Lv": 80
+ },
+ {
+   "Name": "Thunder Fall III",
+   "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": " RustTyrannomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Ripping Net",
+   "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.",
+   "SP Cost": 10,
+   "Learned": "Elecmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Ripping Net",
+   "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.",
+   "SP Cost": 10,
+   "Learned": "Tentomon",
+   "Lv": 12
+ },
+ {
+   "Name": "Ripping Net",
+   "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.",
+   "SP Cost": 10,
+   "Learned": "Gargomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Ripping Net",
+   "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.",
+   "SP Cost": 10,
+   "Learned": "Togemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Ripping Net",
+   "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.",
+   "SP Cost": 10,
+   "Learned": "Waspmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Ripping Net",
+   "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.",
+   "SP Cost": 10,
+   "Learned": "Datamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Ripping Net",
+   "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.",
+   "SP Cost": 10,
+   "Learned": "MetalTyrannomon",
+   "Lv": 15
+ },
+ {
+   "Name": "Comet Hammer I",
+   "Description": "Physical attack, 65 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Tsunomon",
+   "Lv": 5
+ },
+ {
+   "Name": "Comet Hammer I",
+   "Description": "Physical attack, 65 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Gotsumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Comet Hammer I",
+   "Description": "Physical attack, 65 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Goblimon",
+   "Lv": 6
+ },
+ {
+   "Name": "Comet Hammer II",
+   "Description": "Physical attack, 85 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Ogremon",
+   "Lv": 10
+ },
+ {
+   "Name": "Comet Hammer II",
+   "Description": "Physical attack, 85 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Growlmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Comet Hammer II",
+   "Description": "Physical attack, 85 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Dorugamon",
+   "Lv": 10
+ },
+ {
+   "Name": "Comet Hammer II",
+   "Description": "Physical attack, 85 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Nanimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Comet Hammer II",
+   "Description": "Physical attack, 85 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Leomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Cyberdramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "SkullGreymon",
+   "Lv": 45
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "SkullMeramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Pumpkinmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Mamemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "WereGarurumon",
+   "Lv": 35
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "WereGarurumon (Blk)",
+   "Lv": 35
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Titamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "BanchoLeomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Beelzemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Comet Hammer III",
+   "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Magnamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Grand Rock I",
+   "Description": "Magic attack, 55 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Armadillomon",
+   "Lv": 6
+ },
+ {
+   "Name": "Grand Rock I",
+   "Description": "Magic attack, 55 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "BlackGabumon",
+   "Lv": 6
+ },
+ {
+   "Name": "Grand Rock I",
+   "Description": "Magic attack, 55 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Lopmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Grand Rock II",
+   "Description": "Magic attack, 75 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Ankylomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Grand Rock II",
+   "Description": "Magic attack, 75 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Garurumon",
+   "Lv": 18
+ },
+ {
+   "Name": "Grand Rock II",
+   "Description": "Magic attack, 75 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Garurumon (Blk)",
+   "Lv": 18
+ },
+ {
+   "Name": "Grand Rock II",
+   "Description": "Magic attack, 75 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "BlackGatomon",
+   "Lv": 18
+ },
+ {
+   "Name": "Grand Rock III",
+   "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Meteormon",
+   "Lv": 35
+ },
+ {
+   "Name": "Grand Rock III",
+   "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Shakkoumon",
+   "Lv": 45
+ },
+ {
+   "Name": "Grand Rock III",
+   "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Craniamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Grand Rock III",
+   "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Puppetmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Grand Rock III",
+   "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Belphemon SM",
+   "Lv": 50
+ },
+ {
+   "Name": "Grand Rock III",
+   "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Belphemon RM",
+   "Lv": 50
+ },
+ {
+   "Name": "Grand Rock III",
+   "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Leviamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Ankylomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Cyclonemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Meteormon",
+   "Lv": 15
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "DoruGreymon",
+   "Lv": 15
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Pumpkinmon",
+   "Lv": 15
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Mamemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "MetalGreymon (Blue)",
+   "Lv": 15
+ },
+ {
+   "Name": "Awesome Quake I",
+   "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "WereGarurumon",
+   "Lv": 15
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Mamemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "WereGarurumon",
+   "Lv": 45
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Craniamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "ShineGreymon",
+   "Lv": 50
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Titamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "BanchoLeomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MetalEtemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Awesome Quake II",
+   "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Magnamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Awesome Quake III",
+   "Description": "Physical attack, 75 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Craniamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Awesome Quake III",
+   "Description": "Physical attack, 75 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Titamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Awesome Quake III",
+   "Description": "Physical attack, 75 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Leopardmon LM",
+   "Lv": 65
+ },
+ {
+   "Name": "Awesome Quake III",
+   "Description": "Physical attack, 75 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "BanchoLeomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Awesome Quake III",
+   "Description": "Physical attack, 75 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "MetalEtemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Awesome Quake III",
+   "Description": "Physical attack, 75 Earth damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Magnamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Shock",
+   "Description": "Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.",
+   "SP Cost": 10,
+   "Learned": "Armadillomon",
+   "Lv": 12
+ },
+ {
+   "Name": "Shock",
+   "Description": "Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.",
+   "SP Cost": 10,
+   "Learned": "Goblimon",
+   "Lv": 12
+ },
+ {
+   "Name": "Shock",
+   "Description": "Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.",
+   "SP Cost": 10,
+   "Learned": "Tankmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Shock",
+   "Description": "Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.",
+   "SP Cost": 10,
+   "Learned": "Nanimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Shock",
+   "Description": "Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.",
+   "SP Cost": 10,
+   "Learned": "Gigadramon",
+   "Lv": 15
+ },
+ {
+   "Name": "Wind Claw I",
+   "Description": "Physical attack, 65 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Wanyamon",
+   "Lv": 5
+ },
+ {
+   "Name": "Wind Claw I",
+   "Description": "Physical attack, 65 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Veemon",
+   "Lv": 12
+ },
+ {
+   "Name": "Wind Claw I",
+   "Description": "Physical attack, 65 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Hawkmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Wind Claw II",
+   "Description": "Physical attack, 85 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Aquilamon",
+   "Lv": 10
+ },
+ {
+   "Name": "Wind Claw II",
+   "Description": "Physical attack, 85 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Stingmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Wind Claw II",
+   "Description": "Physical attack, 85 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Veedramon",
+   "Lv": 10
+ },
+ {
+   "Name": "Wind Claw II",
+   "Description": "Physical attack, 85 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Peckmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "AeroVeedramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Gigadramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Silphymon",
+   "Lv": 45
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MachGaogamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Megadramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "UlforceVeedramon",
+   "Lv": 20
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Examon",
+   "Lv": 20
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "SaberLeomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Dynasmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MirageGaogamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Wind Claw III",
+   "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Beelzemon BM",
+   "Lv": 20
+ },
+ {
+   "Name": "Sonic Void I",
+   "Description": "Magic attack, 55 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Patamon",
+   "Lv": 6
+ },
+ {
+   "Name": "Sonic Void I",
+   "Description": "Magic attack, 55 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Biyomon",
+   "Lv": 6
+ },
+ {
+   "Name": "Sonic Void I",
+   "Description": "Magic attack, 55 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Hawkmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Sonic Void III",
+   "Description": "Magic attack, 95 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Silphymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Sonic Void III",
+   "Description": "Magic attack, 95 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Crowmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Sonic Void III",
+   "Description": "Magic attack, 95 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Imperialdramon DM",
+   "Lv": 65
+ },
+ {
+   "Name": "Sonic Void III",
+   "Description": "Magic attack, 95 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Imperialdramon FM",
+   "Lv": 65
+ },
+ {
+   "Name": "Sonic Void III",
+   "Description": "Magic attack, 95 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MetalGarurumon",
+   "Lv": 65
+ },
+ {
+   "Name": "Sonic Void III",
+   "Description": "Magic attack, 95 Wind damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Ravemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Aquilamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Gaogamon",
+   "Lv": 18
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Kuwagamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Stingmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Garudamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Silphymon",
+   "Lv": 15
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Zudomon",
+   "Lv": 15
+ },
+ {
+   "Name": "Gale Storm I",
+   "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Crowmon",
+   "Lv": 15
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MachGaogamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Megadramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "UlforceVeedramon",
+   "Lv": 65
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Examon",
+   "Lv": 35
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "GranKuwagamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "SaberLeomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Dynasmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "MirageGaogamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Gale Storm II",
+   "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Ravemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Gale Storm III",
+   "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Andromon",
+   "Lv": 45
+ },
+ {
+   "Name": "Gale Storm III",
+   "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "UlforceVeedramon",
+   "Lv": 80
+ },
+ {
+   "Name": "Gale Storm III",
+   "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Examon",
+   "Lv": 80
+ },
+ {
+   "Name": "Gale Storm III",
+   "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "SaberLeomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Gale Storm III",
+   "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Dynasmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Gale Storm III",
+   "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "MirageGaogamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Gale Storm III",
+   "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Ravemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Texture Blow",
+   "Description": "Physical attack, 40 Wind damage to one foe. Inflicts Dot status effect.",
+   "SP Cost": 10,
+   "Learned": "GoldNumemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Texture Blow",
+   "Description": "Physical attack, 40 Wind damage to one foe. Inflicts Dot status effect.",
+   "SP Cost": 10,
+   "Learned": "Pumpkinmon",
+   "Lv": 45
+ },
+ {
+   "Name": "Texture Blow",
+   "Description": "Physical attack, 40 Wind damage to one foe. Inflicts Dot status effect.",
+   "SP Cost": 10,
+   "Learned": "BlackKingNumemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Texture Blow",
+   "Description": "Physical attack, 40 Wind damage to one foe. Inflicts Dot status effect.",
+   "SP Cost": 10,
+   "Learned": "Piedmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Saint Knuckle I",
+   "Description": "Physical attack, 65 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Nyaromon",
+   "Lv": 5
+ },
+ {
+   "Name": "Saint Knuckle I",
+   "Description": "Physical attack, 65 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Kudamon",
+   "Lv": 6
+ },
+ {
+   "Name": "Saint Knuckle II",
+   "Description": "Physical attack, 85 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Starmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Saint Knuckle II",
+   "Description": "Physical attack, 85 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Veedramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Saint Knuckle II",
+   "Description": "Physical attack, 85 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Leomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Saint Knuckle II",
+   "Description": "Physical attack, 85 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Reppamon",
+   "Lv": 10
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "AeroVeedramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "SuperStarmon",
+   "Lv": 45
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "WarGrowlmon",
+   "Lv": 45
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "ShineGreymon",
+   "Lv": 20
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Justimon",
+   "Lv": 20
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Kentaurosmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Gallantmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Leopardmon LM",
+   "Lv": 20
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Imperialdramon PM",
+   "Lv": 50
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Omnimon",
+   "Lv": 20
+ },
+ {
+   "Name": "Saint Knuckle III",
+   "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Rapidmon (Armor)",
+   "Lv": 20
+ },
+ {
+   "Name": "Holy Light I",
+   "Description": "Magic attack, 55 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Kudamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Holy Light I",
+   "Description": "Magic attack, 55 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Solarmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Holy Light I",
+   "Description": "Magic attack, 55 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Salamon",
+   "Lv": 6
+ },
+ {
+   "Name": "Holy Light II",
+   "Description": "Magic attack, 75 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "ExVeemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Holy Light II",
+   "Description": "Magic attack, 75 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Angemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Holy Light II",
+   "Description": "Magic attack, 75 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Sunflowmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Holy Light II",
+   "Description": "Magic attack, 75 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Gatomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Holy Light II",
+   "Description": "Magic attack, 75 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kerpymon (Good)",
+   "Lv": 20
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Lucemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Angewomon",
+   "Lv": 45
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Shakkoumon",
+   "Lv": 35
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Chirinmon",
+   "Lv": 45
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Piximon",
+   "Lv": 35
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "MagnaAngemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Ophanimon",
+   "Lv": 65
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Sakuyamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Seraphimon",
+   "Lv": 20
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Magnadramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Imperialdramon PM",
+   "Lv": 20
+ },
+ {
+   "Name": "Holy Light III",
+   "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Omnimon",
+   "Lv": 80
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Solarmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Angemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Reppamon",
+   "Lv": 18
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Angewomon",
+   "Lv": 15
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Shakkoumon",
+   "Lv": 15
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "SuperStarmon",
+   "Lv": 15
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Chirinmon",
+   "Lv": 15
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Piximon",
+   "Lv": 15
+ },
+ {
+   "Name": "Shining Laser I",
+   "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "MagnaAngemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Lucemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Lucemon CM",
+   "Lv": 20
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Ophanimon",
+   "Lv": 20
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Kerpymon (Good)",
+   "Lv": 50
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Sakuyamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Kentaurosmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Seraphimon",
+   "Lv": 35
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Magnadramon",
+   "Lv": 20
+ },
+ {
+   "Name": "Shining Laser II",
+   "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Rapidmon (Armor)",
+   "Lv": 35
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Lucemon CM",
+   "Lv": 80
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Ophanimon",
+   "Lv": 80
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Kerpymon (Good)",
+   "Lv": 65
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Kentaurosmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Seraphimon",
+   "Lv": 65
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Leopardmon LM",
+   "Lv": 20
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Magnadramon",
+   "Lv": 80
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Mastemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Shining Laser III",
+   "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Rapidmon (Armor)",
+   "Lv": 80
+ },
+ {
+   "Name": "Support End",
+   "Description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills.",
+   "SP Cost": 10,
+   "Learned": "Leopardmon LM",
+   "Lv": 80
+ },
+ {
+   "Name": "Support End",
+   "Description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills.",
+   "SP Cost": 10,
+   "Learned": "Lotusmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Support End",
+   "Description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills.",
+   "SP Cost": 10,
+   "Learned": "Lucemon SM",
+   "Lv": 80
+ },
+ {
+   "Name": "Destruction Cannon I",
+   "Description": "Physical attack, 65 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Tsumemon",
+   "Lv": 5
+ },
+ {
+   "Name": "Destruction Cannon I",
+   "Description": "Physical attack, 65 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Gazimon",
+   "Lv": 6
+ },
+ {
+   "Name": "Destruction Cannon I",
+   "Description": "Physical attack, 65 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Keramon",
+   "Lv": 6
+ },
+ {
+   "Name": "Destruction Cannon II",
+   "Description": "Physical attack, 85 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Orgemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Destruction Cannon II",
+   "Description": "Physical attack, 85 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kurisarimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Destruction Cannon II",
+   "Description": "Physical attack, 85 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Kuwagamon",
+   "Lv": 18
+ },
+ {
+   "Name": "Destruction Cannon II",
+   "Description": "Physical attack, 85 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Devimon",
+   "Lv": 10
+ },
+ {
+   "Name": "Destruction Cannon II",
+   "Description": "Physical attack, 85 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Infermon",
+   "Lv": 15
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Infermon",
+   "Lv": 45
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Myotismon",
+   "Lv": 45
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Cyberdramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "SkullGreymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "VenomMyotismon",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "ChaosGallantmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Diaboromon",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Beelzemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Belphemon SM",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Belphemon RM",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Crusadermon",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction Cannon III",
+   "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Omnimon Zwart",
+   "Lv": 20
+ },
+ {
+   "Name": "Nightmare I",
+   "Description": "Magic attack, 55 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Pagumon",
+   "Lv": 5
+ },
+ {
+   "Name": "Nightmare I",
+   "Description": "Magic attack, 55 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Impmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Nightmare I",
+   "Description": "Magic attack, 55 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "BlackGatomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Nightmare II",
+   "Description": "Magic attack, 75 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Wizardmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Nightmare II",
+   "Description": "Magic attack, 75 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Sukamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Nightmare II",
+   "Description": "Magic attack, 75 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Bakemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Myotismon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Etemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Taomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "BlackNumemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Vademon",
+   "Lv": 45
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "LadyDevimon",
+   "Lv": 35
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Wisemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Kuzuhamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Dianamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Creepymon",
+   "Lv": 20
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Barbamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Piedmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Lilithmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Lucemon SM",
+   "Lv": 20
+ },
+ {
+   "Name": "Nightmare III",
+   "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Kerpymon (Blk)",
+   "Lv": 20
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "IceDevimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Wizardmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Devimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Myotismon",
+   "Lv": 15
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Etemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Taomon",
+   "Lv": 15
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Vademon",
+   "Lv": 25
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "LadyDevimon",
+   "Lv": 15
+ },
+ {
+   "Name": "Hell Crusher I",
+   "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Wisemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Taomon",
+   "Lv": 45
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Lucemon CM",
+   "Lv": 35
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "LadyDevimon",
+   "Lv": 45
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Wisemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Kuzuhamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Barbamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Piedmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Lilithmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Crusadermon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hell Crusher II",
+   "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Kerpymon (Blk)",
+   "Lv": 50
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Lucemon CM",
+   "Lv": 65
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "VenomMyotismon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Kuzuhamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Creepymon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Barbamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Piedmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Beelzemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Belphemon SM",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Belphemon RM",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Mastemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Lilithmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Crusadermon",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Omnimon Zwart",
+   "Lv": 80
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Lucemon SM",
+   "Lv": 65
+ },
+ {
+   "Name": "Hell Crusher III",
+   "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Kerpymon (Blk)",
+   "Lv": 65
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "Infermon",
+   "Lv": 25
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "SkullGreymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "Digitamamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "VenomMyotismon",
+   "Lv": 35
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "Gaiomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "ChaosGallantmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "Diaboromon",
+   "Lv": 35
+ },
+ {
+   "Name": "Destruction",
+   "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death.",
+   "SP Cost": 10,
+   "Learned": "Piedmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Heavy Strike I",
+   "Description": "Physical attack, 70 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Tokomon",
+   "Lv": 5
+ },
+ {
+   "Name": "Heavy Strike I",
+   "Description": "Physical attack, 70 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Agumon",
+   "Lv": 6
+ },
+ {
+   "Name": "Heavy Strike I",
+   "Description": "Physical attack, 70 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Veemon",
+   "Lv": 6
+ },
+ {
+   "Name": "Heavy Strike II",
+   "Description": "Physical attack, 90 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "ExVeemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Heavy Strike II",
+   "Description": "Physical attack, 90 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Greymon",
+   "Lv": 18
+ },
+ {
+   "Name": "Heavy Strike II",
+   "Description": "Physical attack, 90 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "GeoGreymon",
+   "Lv": 18
+ },
+ {
+   "Name": "Heavy Strike II",
+   "Description": "Physical attack, 90 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Starmon",
+   "Lv": 10
+ },
+ {
+   "Name": "Heavy Strike II",
+   "Description": "Physical attack, 90 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Tyrannomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Digitamamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Knightmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Paildramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Monzaemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Imperialdramon DM",
+   "Lv": 20
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Imperialdramon FM",
+   "Lv": 20
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "WarGreymon",
+   "Lv": 65
+ },
+ {
+   "Name": "Heavy Strike III",
+   "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Minervamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Power Energy I",
+   "Description": "Magic attack, 60 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "Motimon",
+   "Lv": 5
+ },
+ {
+   "Name": "Power Energy I",
+   "Description": "Magic attack, 60 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 3,
+   "Learned": "ToyAgumon",
+   "Lv": 6
+ },
+ {
+   "Name": "Power Energy II",
+   "Description": "Magic attack, 80 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Woodmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Power Energy II",
+   "Description": "Magic attack, 80 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "Starmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Power Energy II",
+   "Description": "Magic attack, 80 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 6,
+   "Learned": "BlackGatomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Antylamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Meteormon",
+   "Lv": 45
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Datamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Alphamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "HiAndromon",
+   "Lv": 35
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "PrinceMamemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Hououmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Power Energy III",
+   "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy.",
+   "SP Cost": 9,
+   "Learned": "Leviamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Gargomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Antylamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "SuperStarmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Digitamamon",
+   "Lv": 15
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Knightmon",
+   "Lv": 15
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Paildramon",
+   "Lv": 15
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "MetalGreymon",
+   "Lv": 15
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "Monzaemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Mach Rush I",
+   "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 4,
+   "Learned": "WereGarurumon (Blk)",
+   "Lv": 15
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "ExVeemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Antylamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Infermon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Knightmon",
+   "Lv": 45
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "WereGarurumon (Blk)",
+   "Lv": 45
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Diaboromon",
+   "Lv": 50
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "BlackWarGreymon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Minervamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "Machinedramon",
+   "Lv": 20
+ },
+ {
+   "Name": "Mach Rush II",
+   "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 7,
+   "Learned": "RustTyrannomon",
+   "Lv": 20
+ },
+ {
+   "Name": "Mach Rush III",
+   "Description": "Physical attack, 80 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Alphamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Mach Rush III",
+   "Description": "Physical attack, 80 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Imperialdramon DM",
+   "Lv": 80
+ },
+ {
+   "Name": "Mach Rush III",
+   "Description": "Physical attack, 80 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Imperialdramon FM",
+   "Lv": 80
+ },
+ {
+   "Name": "Mach Rush III",
+   "Description": "Physical attack, 80 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Jesmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mach Rush III",
+   "Description": "Physical attack, 80 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Minervamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Mach Rush III",
+   "Description": "Physical attack, 80 Neutral damage to all foes. 95% accuracy.",
+   "SP Cost": 10,
+   "Learned": "Lucemon SM",
+   "Lv": 50
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Devimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Bakemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Cherrymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "SkullMeramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Datamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "VenomMyotismon",
+   "Lv": 50
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "GranKuwagamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Physical Drain",
+   "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Beelzemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Spirit Drain",
+   "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "IceDevimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Spirit Drain",
+   "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Myotismon",
+   "Lv": 25
+ },
+ {
+   "Name": "Spirit Drain",
+   "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Lucemon CM",
+   "Lv": 50
+ },
+ {
+   "Name": "Spirit Drain",
+   "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "LadyDevimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Spirit Drain",
+   "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Barbamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Spirit Drain",
+   "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Lilithmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Spirit Drain",
+   "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP.",
+   "SP Cost": 3,
+   "Learned": "Kerpymon (Blk)",
+   "Lv": 35
+ },
+ {
+   "Name": "Character Reversal",
+   "Description": "Magic attack, 30 Neutral damage to one foe. Inflicts Bug status effect.",
+   "SP Cost": 10,
+   "Learned": "PlatinumSukamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Character Reversal",
+   "Description": "Magic attack, 30 Neutral damage to one foe. Inflicts Bug status effect.",
+   "SP Cost": 10,
+   "Learned": "Vademon",
+   "Lv": 35
+ },
+ {
+   "Name": "Character Reversal",
+   "Description": "Magic attack, 30 Neutral damage to one foe. Inflicts Bug status effect.",
+   "SP Cost": 10,
+   "Learned": "Ebemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Heal",
+   "Description": "Restores a little HP for one party member.",
+   "SP Cost": 4,
+   "Learned": "Terriermon",
+   "Lv": 6
+ },
+ {
+   "Name": "Heal",
+   "Description": "Restores a little HP for one party member.",
+   "SP Cost": 4,
+   "Learned": "Hackmon",
+   "Lv": 6
+ },
+ {
+   "Name": "Heal",
+   "Description": "Restores a little HP for one party member.",
+   "SP Cost": 4,
+   "Learned": "Salamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Heal",
+   "Description": "Restores a little HP for one party member.",
+   "SP Cost": 4,
+   "Learned": "Ikkakumon",
+   "Lv": 25
+ },
+ {
+   "Name": "Heal",
+   "Description": "Restores a little HP for one party member.",
+   "SP Cost": 4,
+   "Learned": "Clockmon",
+   "Lv": 18
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Angemon",
+   "Lv": 18
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Sunflowmon",
+   "Lv": 25
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Socerimon",
+   "Lv": 25
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Piximon",
+   "Lv": 45
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Whamon",
+   "Lv": 25
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "MagnaAngemon",
+   "Lv": 25
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Lillymon",
+   "Lv": 25
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Vikemon",
+   "Lv": 35
+ },
+ {
+   "Name": "EX Heal",
+   "Description": "Restores HP for one party member.",
+   "SP Cost": 8,
+   "Learned": "Gallantmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Final Heal",
+   "Description": "Restores a lot of HP for one party member.",
+   "SP Cost": 16,
+   "Learned": "Sakuyamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Final Heal",
+   "Description": "Restores a lot of HP for one party member.",
+   "SP Cost": 16,
+   "Learned": "Kentaurosmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Final Heal",
+   "Description": "Restores a lot of HP for one party member.",
+   "SP Cost": 16,
+   "Learned": "Seraphimon",
+   "Lv": 50
+ },
+ {
+   "Name": "Final Heal",
+   "Description": "Restores a lot of HP for one party member.",
+   "SP Cost": 16,
+   "Learned": "PrinceMamemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Final Heal",
+   "Description": "Restores a lot of HP for one party member.",
+   "SP Cost": 16,
+   "Learned": "Hououmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "Gatomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "Frigimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "Reppamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "Andromon",
+   "Lv": 25
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "Angewomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "Lilamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "ShineGreymon",
+   "Lv": 35
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "MetalGarurumon",
+   "Lv": 35
+ },
+ {
+   "Name": "Aura",
+   "Description": "Restores a little HP for all party members.",
+   "SP Cost": 10,
+   "Learned": "Ravemon",
+   "Lv": 35
+ },
+ {
+   "Name": "EX Aura",
+   "Description": "Restores HP for all party members.",
+   "SP Cost": 25,
+   "Learned": "Lucemon",
+   "Lv": 45
+ },
+ {
+   "Name": "EX Aura",
+   "Description": "Restores HP for all party members.",
+   "SP Cost": 25,
+   "Learned": "Kerpymon (Good)",
+   "Lv": 35
+ },
+ {
+   "Name": "EX Aura",
+   "Description": "Restores HP for all party members.",
+   "SP Cost": 25,
+   "Learned": "Plesiomon",
+   "Lv": 35
+ },
+ {
+   "Name": "EX Aura",
+   "Description": "Restores HP for all party members.",
+   "SP Cost": 25,
+   "Learned": "Magnadramon",
+   "Lv": 65
+ },
+ {
+   "Name": "EX Aura",
+   "Description": "Restores HP for all party members.",
+   "SP Cost": 25,
+   "Learned": "Lotusmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Final Aura",
+   "Description": "Restores a lot of HP for all party members.",
+   "SP Cost": 40,
+   "Learned": "Ophanimon",
+   "Lv": 50
+ },
+ {
+   "Name": "Final Aura",
+   "Description": "Restores a lot of HP for all party members.",
+   "SP Cost": 40,
+   "Learned": "Mastemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Final Aura",
+   "Description": "Restores a lot of HP for all party members.",
+   "SP Cost": 40,
+   "Learned": "MarineAngemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Final Aura",
+   "Description": "Restores a lot of HP for all party members.",
+   "SP Cost": 40,
+   "Learned": "Rosemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "Lucemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "GoldNumemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "Gatomon",
+   "Lv": 18
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "Angewomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "Chirinmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "MagnaAngemon",
+   "Lv": 45
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "Jesmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "Justimon",
+   "Lv": 65
+ },
+ {
+   "Name": "Revive",
+   "Description": "Revive one fallen party member with 50% HP.",
+   "SP Cost": 30,
+   "Learned": "Magnamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Perfect Revive",
+   "Description": "Revive all fallen party members with full HP.",
+   "SP Cost": 60,
+   "Learned": "Ophanimon",
+   "Lv": 35
+ },
+ {
+   "Name": "Perfect Revive",
+   "Description": "Revive all fallen party members with full HP.",
+   "SP Cost": 60,
+   "Learned": "Seraphimon",
+   "Lv": 80
+ },
+ {
+   "Name": "Perfect Revive",
+   "Description": "Revive all fallen party members with full HP.",
+   "SP Cost": 60,
+   "Learned": "Magnadramon",
+   "Lv": 50
+ },
+ {
+   "Name": "Perfect Revive",
+   "Description": "Revive all fallen party members with full HP.",
+   "SP Cost": 60,
+   "Learned": "Imperialdramon PM",
+   "Lv": 80
+ },
+ {
+   "Name": "Anti-Poison",
+   "Description": "Recover Poison from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Palmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Poison",
+   "Description": "Recover Poison from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Lalamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Poison",
+   "Description": "Recover Poison from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Birdramon",
+   "Lv": 18
+ },
+ {
+   "Name": "Anti-Poison",
+   "Description": "Recover Poison from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Chirinmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Anti-Panic",
+   "Description": "Recover Panic from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "BlackGabumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Panic",
+   "Description": "Recover Panic from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Gomamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Panic",
+   "Description": "Recover Panic from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Renamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Panic",
+   "Description": "Recover Panic from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Seadramon",
+   "Lv": 18
+ },
+ {
+   "Name": "Anti-Panic",
+   "Description": "Recover Panic from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Knightmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Anti-Paralysis",
+   "Description": "Recover Paralyze from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Falcomon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Paralysis",
+   "Description": "Recover Paralyze from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Betamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Paralysis",
+   "Description": "Recover Paralyze from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Togemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Anti-Paralysis",
+   "Description": "Recover Paralyze from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Antylamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Anti-Sleep",
+   "Description": "Recover Sleep from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Otamamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Sleep",
+   "Description": "Recover Sleep from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Syakomon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Sleep",
+   "Description": "Recover Sleep from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Gekomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Anti-Sleep",
+   "Description": "Recover Sleep from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "SuperStarmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Anti-Stun",
+   "Description": "Recover Stun from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Gaomon",
+   "Lv": 6
+ },
+ {
+   "Name": "Anti-Stun",
+   "Description": "Recover Stun from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Gabumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Anti-Stun",
+   "Description": "Recover Stun from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "Ankylomon",
+   "Lv": 18
+ },
+ {
+   "Name": "Anti-Stun",
+   "Description": "Recover Stun from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "MachGaogamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Antidote",
+   "Description": "Recover Dot from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "GoldNumemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Antidote",
+   "Description": "Recover Dot from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "BlackKingNumemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Antidote",
+   "Description": "Recover Dot from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "GroundLocomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Anti-Bug",
+   "Description": "Recover Bug from one party member and restore some HP.",
+   "SP Cost": 4,
+   "Learned": "PlatinumSukamon",
+   "Lv": 10
+ },
+ {
+   "Name": "Restore",
+   "Description": "Remove all status effects from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "Sakuyamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Restore",
+   "Description": "Remove all status effects from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "Kentaurosmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Restore",
+   "Description": "Remove all status effects from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "Dianamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Restore",
+   "Description": "Remove all status effects from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "Imperialdramon PM",
+   "Lv": 65
+ },
+ {
+   "Name": "Dispel",
+   "Description": "Remove basic debuffs from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "Shakkoumon",
+   "Lv": 25
+ },
+ {
+   "Name": "Dispel",
+   "Description": "Remove basic debuffs from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "Dianamon",
+   "Lv": 20
+ },
+ {
+   "Name": "Dispel",
+   "Description": "Remove basic debuffs from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "MarineAngemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Dispel",
+   "Description": "Remove basic debuffs from one party member and restore some HP.",
+   "SP Cost": 8,
+   "Learned": "Rapidmon (Armor)",
+   "Lv": 50
+ },
+ {
+   "Name": "Attack Charge",
+   "Description": "Increases ATK of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Agumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Attack Charge",
+   "Description": "Increases ATK of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Guilmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Attack Charge",
+   "Description": "Increases ATK of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Falcomon",
+   "Lv": 6
+ },
+ {
+   "Name": "Attack Charge",
+   "Description": "Increases ATK of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Meramon",
+   "Lv": 10
+ },
+ {
+   "Name": "Attack Charge",
+   "Description": "Increases ATK of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Leomon",
+   "Lv": 18
+ },
+ {
+   "Name": "Attack Charge",
+   "Description": "Increases ATK of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "MetalGreymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Imperialdramon DM",
+   "Lv": 35
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Imperialdramon FM",
+   "Lv": 35
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "WarGreymon",
+   "Lv": 50
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Gankoomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Jesmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "BanchoLeomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Machinedramon",
+   "Lv": 50
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Omnimon",
+   "Lv": 50
+ },
+ {
+   "Name": "Attack Charge Field",
+   "Description": "Increases ATK of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Beelzemon BM",
+   "Lv": 65
+ },
+ {
+   "Name": "Guard Charge",
+   "Description": "Increases DEF of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "BlackAgumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Guard Charge",
+   "Description": "Increases DEF of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Gotsumon",
+   "Lv": 6
+ },
+ {
+   "Name": "Guard Charge",
+   "Description": "Increases DEF of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "ShellNumemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Guard Charge",
+   "Description": "Increases DEF of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Geremon",
+   "Lv": 18
+ },
+ {
+   "Name": "Guard Charge",
+   "Description": "Increases DEF of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Dorugamon",
+   "Lv": 18
+ },
+ {
+   "Name": "Guard Charge",
+   "Description": "Increases DEF of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "MetalTyrannomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "GroundLocomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Craniamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Jesmon",
+   "Lv": 20
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Gallantmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "HiAndromon",
+   "Lv": 65
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "BlackWarGreymon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "RustTyrannomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Charge Field",
+   "Description": "Increases DEF of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Magnamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mental Charge",
+   "Description": "Increases INT of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Patamon",
+   "Lv": 12
+ },
+ {
+   "Name": "Mental Charge",
+   "Description": "Increases INT of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Biyomon",
+   "Lv": 12
+ },
+ {
+   "Name": "Mental Charge",
+   "Description": "Increases INT of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Kabuterimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Mental Charge",
+   "Description": "Increases INT of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Kyubimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Mental Charge",
+   "Description": "Increases INT of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Taomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Alphamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "UlforceVeedramon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Vikemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "MegaGargomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "PrinceMamemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "HerculesKabuterimon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Rosemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mental Charge Field",
+   "Description": "Increases INT of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Imperialdramon PM",
+   "Lv": 35
+ },
+ {
+   "Name": "Speed Charge",
+   "Description": "Increases SPD of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Terriermon",
+   "Lv": 12
+ },
+ {
+   "Name": "Speed Charge",
+   "Description": "Increases SPD of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Garurumon",
+   "Lv": 10
+ },
+ {
+   "Name": "Speed Charge",
+   "Description": "Increases SPD of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Garurumon (Blk)",
+   "Lv": 10
+ },
+ {
+   "Name": "Speed Charge",
+   "Description": "Increases SPD of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Dorugamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Speed Charge",
+   "Description": "Increases SPD of one member by 10%.",
+   "SP Cost": 6,
+   "Learned": "AeroVeedramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "UlforceVeedramon",
+   "Lv": 50
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "GranKuwagamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "TigerVespamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Boltmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "MirageGaogamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "MetalGarurumon",
+   "Lv": 50
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Ravemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Speed Charge Field",
+   "Description": "Increases SPD of all battle members by 10%.",
+   "SP Cost": 20,
+   "Learned": "Rapidmon (Armor)",
+   "Lv": 65
+ },
+ {
+   "Name": "Hit Charge",
+   "Description": "Increases ACC of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Greymon (Blue)",
+   "Lv": 25
+ },
+ {
+   "Name": "Hit Charge",
+   "Description": "Increases ACC of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Tankmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Hit Charge",
+   "Description": "Increases ACC of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Waspmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Hit Charge",
+   "Description": "Increases ACC of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Okuwamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Hit Charge",
+   "Description": "Increases ACC of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "MetalMamemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Hit Charge",
+   "Description": "Increases ACC of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "RizeGreymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Agility Charge",
+   "Description": "Increases EVA of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Gaomon",
+   "Lv": 12
+ },
+ {
+   "Name": "Agility Charge",
+   "Description": "Increases EVA of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Garurumon (Blk)",
+   "Lv": 25
+ },
+ {
+   "Name": "Agility Charge",
+   "Description": "Increases EVA of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Bakemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Agility Charge",
+   "Description": "Increases EVA of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Peckmon",
+   "Lv": 18
+ },
+ {
+   "Name": "Agility Charge",
+   "Description": "Increases EVA of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "GrapLeomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Agility Charge",
+   "Description": "Increases EVA of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Panjyamon",
+   "Lv": 25
+ },
+ {
+   "Name": "Critical Charge",
+   "Description": "Increases CRIT of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Dorumon",
+   "Lv": 12
+ },
+ {
+   "Name": "Critical Charge",
+   "Description": "Increases CRIT of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Orgemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Critical Charge",
+   "Description": "Increases CRIT of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Cyclonemon",
+   "Lv": 10
+ },
+ {
+   "Name": "Critical Charge",
+   "Description": "Increases CRIT of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "Silphymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Critical Charge",
+   "Description": "Increases CRIT of one battle member by 10%.",
+   "SP Cost": 6,
+   "Learned": "MetalGreymon (Blue)",
+   "Lv": 25
+ },
+ {
+   "Name": "Attack Break",
+   "Description": "Reduces ATK of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "DemiDevimon",
+   "Lv": 12
+ },
+ {
+   "Name": "Attack Break",
+   "Description": "Reduces ATK of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Gekomon",
+   "Lv": 18
+ },
+ {
+   "Name": "Attack Break",
+   "Description": "Reduces ATK of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Nanimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Attack Break",
+   "Description": "Reduces ATK of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Cyberdramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Attack Break",
+   "Description": "Reduces ATK of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "DoruGreymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Attack Break",
+   "Description": "Reduces ATK of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Ebemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Attack Break Field",
+   "Description": "Reduces ATK of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Examon",
+   "Lv": 65
+ },
+ {
+   "Name": "Attack Break Field",
+   "Description": "Reduces ATK of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "GranKuwagamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Attack Break Field",
+   "Description": "Reduces ATK of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Dynasmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Attack Break Field",
+   "Description": "Reduces ATK of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "PlatinumNumemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Attack Break Field",
+   "Description": "Reduces ATK of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Boltmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Attack Break Field",
+   "Description": "Reduces ATK of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "MetalSeadramon",
+   "Lv": 50
+ },
+ {
+   "Name": "Attack Break Field",
+   "Description": "Reduces ATK of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Lilithmon",
+   "Lv": 65
+ },
+ {
+   "Name": "Guard Break",
+   "Description": "Reduces DEF of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Keramon",
+   "Lv": 12
+ },
+ {
+   "Name": "Guard Break",
+   "Description": "Reduces DEF of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Guardromon",
+   "Lv": 18
+ },
+ {
+   "Name": "Guard Break",
+   "Description": "Reduces DEF of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "ShellNumemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Guard Break",
+   "Description": "Reduces DEF of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Kurisarimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Guard Break",
+   "Description": "Reduces DEF of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Zudomon",
+   "Lv": 25
+ },
+ {
+   "Name": "Guard Break",
+   "Description": "Reduces DEF of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "WarGrowlmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "VenomMyotismon",
+   "Lv": 65
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Gaiomon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "ChaosGallantmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "SaberLeomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Titamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Diaboromon",
+   "Lv": 65
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Puppetmon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "PlatinumNumemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Minervamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Guard Break Field",
+   "Description": "Reduces DEF of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Leviamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Mental Break",
+   "Description": "Reduces INT of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Sukamon",
+   "Lv": 18
+ },
+ {
+   "Name": "Mental Break",
+   "Description": "Reduces INT of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "PlatinumSukamon",
+   "Lv": 18
+ },
+ {
+   "Name": "Mental Break",
+   "Description": "Reduces INT of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "BlueMeramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Mental Break",
+   "Description": "Reduces INT of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "MegaSeadramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Mental Break Field",
+   "Description": "Reduces INT of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Creepymon",
+   "Lv": 50
+ },
+ {
+   "Name": "Mental Break Field",
+   "Description": "Reduces INT of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "PlatinumNumemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Mental Break Field",
+   "Description": "Reduces INT of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Belphemon RM",
+   "Lv": 65
+ },
+ {
+   "Name": "Mental Break Field",
+   "Description": "Reduces INT of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Belphemon SM",
+   "Lv": 65
+ },
+ {
+   "Name": "Mental Break Field",
+   "Description": "Reduces INT of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "MetalEtemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Mental Break Field",
+   "Description": "Reduces INT of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Lucemon SM",
+   "Lv": 35
+ },
+ {
+   "Name": "Speed Break",
+   "Description": "Reduces SPD of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Wormmon",
+   "Lv": 12
+ },
+ {
+   "Name": "Speed Break",
+   "Description": "Reduces SPD of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Numemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Speed Break",
+   "Description": "Reduces SPD of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "Vegiemon",
+   "Lv": 18
+ },
+ {
+   "Name": "Speed Break",
+   "Description": "Reduces SPD of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "MegaKabuterimon",
+   "Lv": 25
+ },
+ {
+   "Name": "Speed Break",
+   "Description": "Reduces SPD of one enemy by 10%.",
+   "SP Cost": 6,
+   "Learned": "SkullMeramon",
+   "Lv": 15
+ },
+ {
+   "Name": "Speed Break Field",
+   "Description": "Reduces SPD of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Alphamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Speed Break Field",
+   "Description": "Reduces SPD of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Leopardmon LM",
+   "Lv": 35
+ },
+ {
+   "Name": "Speed Break Field",
+   "Description": "Reduces SPD of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "PlatinumNumemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Speed Break Field",
+   "Description": "Reduces SPD of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Machinedramon",
+   "Lv": 65
+ },
+ {
+   "Name": "Speed Break Field",
+   "Description": "Reduces SPD of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "MetalGarurumon (Blk)",
+   "Lv": 65
+ },
+ {
+   "Name": "Speed Break Field",
+   "Description": "Reduces SPD of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "RustTyrannomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Speed Break Field",
+   "Description": "Reduces SPD of all enemies by 10%.",
+   "SP Cost": 20,
+   "Learned": "Crusadermon",
+   "Lv": 50
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "Greymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "Tyrannomon",
+   "Lv": 10
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "SkullGreymon",
+   "Lv": 15
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "Gankoomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "SaberLeomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "Justimon",
+   "Lv": 35
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "BanchoLeomon",
+   "Lv": 35
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "Omnimon Zwart",
+   "Lv": 50
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "Flamedramon",
+   "Lv": 10
+ },
+ {
+   "Name": "Acceleration Boost",
+   "Description": "Doubles damage output in the next turn.",
+   "SP Cost": 6,
+   "Learned": "Beelzemon BM",
+   "Lv": 35
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "Cyclonemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "GeoGreymon",
+   "Lv": 25
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "GrapLeomon",
+   "Lv": 45
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "DoruGreymon",
+   "Lv": 45
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "Paildramon",
+   "Lv": 45
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "Justimon",
+   "Lv": 50
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "Boltmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "Omnimon",
+   "Lv": 35
+ },
+ {
+   "Name": "Cross Counter",
+   "Description": "Counterattacks the enemy when you receive a physical attack.",
+   "SP Cost": 6,
+   "Learned": "Flamedramon",
+   "Lv": 18
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Seadramon",
+   "Lv": 25
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Socerimon",
+   "Lv": 18
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Etemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Garudamon",
+   "Lv": 45
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Crowmon",
+   "Lv": 45
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Wisemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "TigerVespamon",
+   "Lv": 68
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Dianamon",
+   "Lv": 35
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "MirageGaogamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Reflect Mirror",
+   "Description": "Counterattacks the enemy when you receive a magic attack.",
+   "SP Cost": 6,
+   "Learned": "Omnimon Zwart",
+   "Lv": 35
+ },
+ {
+   "Name": "Status Barrier",
+   "Description": "Make one member immune to all status effects.",
+   "SP Cost": 16,
+   "Learned": "Kuzuhamon",
+   "Lv": 50
+ },
+ {
+   "Name": "Status Barrier",
+   "Description": "Make one member immune to all status effects.",
+   "SP Cost": 16,
+   "Learned": "Sakuyamon",
+   "Lv": 80
+ },
+ {
+   "Name": "Status Barrier",
+   "Description": "Make one member immune to all status effects.",
+   "SP Cost": 16,
+   "Learned": "Plesiomon",
+   "Lv": 65
+ },
+ {
+   "Name": "Status Barrier",
+   "Description": "Make one member immune to all status effects.",
+   "SP Cost": 16,
+   "Learned": "Hououmon",
+   "Lv": 35
+ },
+ {
+   "Name": "Status Barrier",
+   "Description": "Make one member immune to all status effects.",
+   "SP Cost": 16,
+   "Learned": "Kerpymon (Blk)",
+   "Lv": 80
+ },
+ {
+   "Name": "Safety Guard",
+   "Description": "Make one member endure all attacks that could kill you once.",
+   "SP Cost": 32,
+   "Learned": "Kerpymon (Good)",
+   "Lv": 80
+ },
+ {
+   "Name": "Safety Guard",
+   "Description": "Make one member endure all attacks that could kill you once.",
+   "SP Cost": 32,
+   "Learned": "Hououmon",
+   "Lv": 80
+ },
+ {
+   "Name": "Safety Guard",
+   "Description": "Make one member endure all attacks that could kill you once.",
+   "SP Cost": 32,
+   "Learned": "Mastemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Safety Guard",
+   "Description": "Make one member endure all attacks that could kill you once.",
+   "SP Cost": 32,
+   "Learned": "MarineAngemon",
+   "Lv": 80
+ },
+ {
+   "Name": "Chain Plus",
+   "Description": "Increase COMBO for one member by 50%.",
+   "SP Cost": 4,
+   "Learned": "Growlmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Chain Plus",
+   "Description": "Increase COMBO for one member by 50%.",
+   "SP Cost": 4,
+   "Learned": "Veedramon",
+   "Lv": 18
+ },
+ {
+   "Name": "Chain Plus",
+   "Description": "Increase COMBO for one member by 50%.",
+   "SP Cost": 4,
+   "Learned": "Andromon",
+   "Lv": 15
+ },
+ {
+   "Name": "Chain Plus",
+   "Description": "Increase COMBO for one member by 50%.",
+   "SP Cost": 4,
+   "Learned": "AeroVeedramon",
+   "Lv": 15
+ },
+ {
+   "Name": "Chain Plus",
+   "Description": "Increase COMBO for one member by 50%.",
+   "SP Cost": 4,
+   "Learned": "WarGrowlmon",
+   "Lv": 15
+ },
+ {
+   "Name": "Chain Plus",
+   "Description": "Increase COMBO for one member by 50%.",
+   "SP Cost": 4,
+   "Learned": "RizeGreymon",
+   "Lv": 15
+ },
+ {
+   "Name": "Chain Max",
+   "Description": "Increase COMBO for one member by 100%.",
+   "SP Cost": 8,
+   "Learned": "ShineGreymon",
+   "Lv": 65
+ },
+ {
+   "Name": "Chain Max",
+   "Description": "Increase COMBO for one member by 100%.",
+   "SP Cost": 8,
+   "Learned": "Justimon",
+   "Lv": 80
+ },
+ {
+   "Name": "Chain Max",
+   "Description": "Increase COMBO for one member by 100%.",
+   "SP Cost": 8,
+   "Learned": "MegaGargomon",
+   "Lv": 80
+ },
+ {
+   "Name": "Chain Max",
+   "Description": "Increase COMBO for one member by 100%.",
+   "SP Cost": 8,
+   "Learned": "Mastemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Chain Max",
+   "Description": "Increase COMBO for one member by 100%.",
+   "SP Cost": 8,
+   "Learned": "Omnimon",
+   "Lv": 65
+ },
+ {
+   "Name": "Chain Minus",
+   "Description": "Reduce COMBO for one enemy by 50%.",
+   "SP Cost": 4,
+   "Learned": "BlackKingNumemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Chain Minus",
+   "Description": "Reduce COMBO for one enemy by 50%.",
+   "SP Cost": 4,
+   "Learned": "PrinceMamemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Chain Minus",
+   "Description": "Reduce COMBO for one enemy by 50%.",
+   "SP Cost": 4,
+   "Learned": "Belphemon RM",
+   "Lv": 35
+ },
+ {
+   "Name": "Chain Minus",
+   "Description": "Reduce COMBO for one enemy by 50%.",
+   "SP Cost": 4,
+   "Learned": "Belphemon SM",
+   "Lv": 35
+ },
+ {
+   "Name": "Chain Lost",
+   "Description": "Reduce COMBO for one enemy by 100%.",
+   "SP Cost": 8,
+   "Learned": "Ebemon",
+   "Lv": 50
+ },
+ {
+   "Name": "Chain Lost",
+   "Description": "Reduce COMBO for one enemy by 100%.",
+   "SP Cost": 8,
+   "Learned": "Kuzuhamon",
+   "Lv": 65
+ },
+ {
+   "Name": "Chain Lost",
+   "Description": "Reduce COMBO for one enemy by 100%.",
+   "SP Cost": 8,
+   "Learned": "MetalEtemon",
+   "Lv": 65
+ },
+ {
+   "Name": "Chain Lost",
+   "Description": "Reduce COMBO for one enemy by 100%.",
+   "SP Cost": 8,
+   "Learned": "Omnimon Zwart",
+   "Lv": 65
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "Garurumon",
+   "Lv": 25
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "Peckmon",
+   "Lv": 25
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "Etemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "Mamemon",
+   "Lv": 25
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "MetalMamemon",
+   "Lv": 15
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "PlatinumNumemon",
+   "Lv": 20
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "PrinceMamemon",
+   "Lv": 35
+ },
+ {
+   "Name": "Escape Dash",
+   "Description": "Flee from a battle.",
+   "SP Cost": 0,
+   "Learned": "MetalEtemon",
+   "Lv": 20
+ }
+]

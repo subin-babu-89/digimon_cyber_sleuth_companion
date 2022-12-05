@@ -1,0 +1,2246 @@
+{
+   "Alphamon": [
+      {
+         "De-Evolution": "Cyberdramon "
+      },
+      {
+         "De-Evolution": "DoruGreymon "
+      }
+   ],
+   "UlforceVeedramon": [
+      {
+         "De-Evolution": "AeroVeedramon "
+      },
+      {
+         "De-Evolution": "Megadramon "
+      }
+   ],
+   "Ebemon": [
+      {
+         "De-Evolution": "Meteormon "
+      },
+      {
+         "De-Evolution": "Vademon "
+      },
+      {
+         "De-Evolution": "MetalMamemon "
+      }
+   ],
+   "Imperialdramon DM": [
+      {
+         "De-Evolution": "Paildramon "
+      }
+   ],
+   "Imperialdramon FM": [
+      {
+         "De-Evolution": "Imperialdramon DM"
+      }
+   ],
+   "Vikemon": [
+      {
+         "De-Evolution": "Shakkoumon "
+      },
+      {
+         "De-Evolution": "Zudomon "
+      },
+      {
+         "De-Evolution": "ShogunGekomon "
+      }
+   ],
+   "VenomMyotismon": [
+      {
+         "De-Evolution": "Infermon "
+      },
+      {
+         "De-Evolution": "Myotismon "
+      },
+      {
+         "De-Evolution": "Wisemon "
+      }
+   ],
+   "WarGreymon": [
+      {
+         "De-Evolution": "Mamemon"
+      },
+      {
+         "De-Evolution": "MetalGreymon "
+      },
+      {
+         "De-Evolution": "MetalGreymon (Blue)"
+      }
+   ],
+   "Examon": [
+      {
+         "De-Evolution": "DoruGreymon "
+      },
+      {
+         "De-Evolution": "RizeGreymon "
+      }
+   ],
+   "Ophanimon": [
+      {
+         "De-Evolution": "Angewomon "
+      },
+      {
+         "De-Evolution": "Piximon "
+      }
+   ],
+   "Gaiomon": [
+      {
+         "De-Evolution": "MetalGreymon "
+      },
+      {
+         "De-Evolution": "MetalGreymon (Blue)"
+      },
+      {
+         "De-Evolution": "RizeGreymon "
+      }
+   ],
+   "ChaosGallantmon": [
+      {
+         "De-Evolution": "Shakkoumon "
+      },
+      {
+         "De-Evolution": "WarGrowlmon"
+      }
+   ],
+   "Gankoomon": [
+      {
+         "De-Evolution": "SuperStarmon "
+      },
+      {
+         "De-Evolution": "SkullMeramon "
+      }
+   ],
+   "Kuzuhamon": [
+      {
+         "De-Evolution": "Cherrymon "
+      },
+      {
+         "De-Evolution": "Taomon "
+      },
+      {
+         "De-Evolution": "Crowmon "
+      }
+   ],
+   "GranKuwagamon": [
+      {
+         "De-Evolution": "MegaKabuterimon "
+      },
+      {
+         "De-Evolution": "Okuwamon "
+      },
+      {
+         "De-Evolution": "Cherrymon "
+      }
+   ],
+   "GroundLocomon": [
+      {
+         "De-Evolution": "Gigadramon "
+      },
+      {
+         "De-Evolution": "CannonBeemon "
+      },
+      {
+         "De-Evolution": "Datamon "
+      }
+   ],
+   "Craniamon": [
+      {
+         "De-Evolution": "Andromon "
+      },
+      {
+         "De-Evolution": "Knightmon "
+      }
+   ],
+   "Kerpymon (Good)": [
+      {
+         "De-Evolution": "Antylamon "
+      },
+      {
+         "De-Evolution": "Shakkoumon "
+      }
+   ],
+   "SaberLeomon": [
+      {
+         "De-Evolution": "GrapLeomon "
+      },
+      {
+         "De-Evolution": "Panjyamon "
+      },
+      {
+         "De-Evolution": "Monzaemon "
+      }
+   ],
+   "Sakuyamon": [
+      {
+         "De-Evolution": "Silphymon "
+      },
+      {
+         "De-Evolution": "Taomon "
+      },
+      {
+         "De-Evolution": "Monzaemon "
+      }
+   ],
+   "Jesmon": [
+      {
+         "De-Evolution": "Hackmon "
+      }
+   ],
+   "ShineGreymon": [
+      {
+         "De-Evolution": "SkullGreymon "
+      },
+      {
+         "De-Evolution": "MagnaAngemon "
+      },
+      {
+         "De-Evolution": "RizeGreymon "
+      }
+   ],
+   "Justimon": [
+      {
+         "De-Evolution": "Garudamon "
+      },
+      {
+         "De-Evolution": "Cyberdramon "
+      },
+      {
+         "De-Evolution": "SuperStarmon "
+      }
+   ],
+   "Kentaurosmon": [
+      {
+         "De-Evolution": "Chirinmon "
+      },
+      {
+         "De-Evolution": "DoruGreymon "
+      }
+   ],
+   "Seraphimon": [
+      {
+         "De-Evolution": "Chirinmon "
+      },
+      {
+         "De-Evolution": "MagnaAngemon "
+      }
+   ],
+   "MegaGargomon": [
+      {
+         "De-Evolution": "CannonBeemon "
+      },
+      {
+         "De-Evolution": "MachGaogamon "
+      },
+      {
+         "De-Evolution": "Rapidmon "
+      }
+   ],
+   "TigerVespamon": [
+      {
+         "De-Evolution": "Andromon "
+      },
+      {
+         "De-Evolution": "CannonBeemon "
+      },
+      {
+         "De-Evolution": "Rapidmon "
+      }
+   ],
+   "Titamon": [
+      {
+         "De-Evolution": "Cyberdramon "
+      },
+      {
+         "De-Evolution": "SkullGreymon "
+      },
+      {
+         "De-Evolution": "Digitamamon "
+      }
+   ],
+   "Dianamon": [
+      {
+         "De-Evolution": "Antylamon "
+      },
+      {
+         "De-Evolution": "Meteormon "
+      },
+      {
+         "De-Evolution": "Taomon "
+      }
+   ],
+   "Diaboromon": [
+      {
+         "De-Evolution": "Antylamon "
+      },
+      {
+         "De-Evolution": "Infermon "
+      },
+      {
+         "De-Evolution": "Okuwamon "
+      }
+   ],
+   "Creepymon": [
+      {
+         "De-Evolution": "SkullGreymon "
+      },
+      {
+         "De-Evolution": "BlueMeramon "
+      }
+   ],
+   "Gallantmon": [
+      {
+         "De-Evolution": "WarGrowlmon "
+      },
+      {
+         "De-Evolution": "MetalTyrannomon "
+      }
+   ],
+   "Dynasmon": [
+      {
+         "De-Evolution": "AeroVeedramon "
+      },
+      {
+         "De-Evolution": "Silphymon "
+      }
+   ],
+   "Leopardmon": [
+      {
+         "De-Evolution": "GrapLeomon "
+      },
+      {
+         "De-Evolution": "Knightmon "
+      }
+   ],
+   "Leopardmon LM": [
+      {
+         "De-Evolution": "Leopardmon"
+      }
+   ],
+   "HiAndromon": [
+      {
+         "De-Evolution": "Andromon "
+      },
+      {
+         "De-Evolution": "Vademon "
+      },
+      {
+         "De-Evolution": "MetalMamemon "
+      }
+   ],
+   "Barbamon": [
+      {
+         "De-Evolution": "Myotismon "
+      },
+      {
+         "De-Evolution": "BlueMeramon "
+      }
+   ],
+   "BanchoLeomon": [
+      {
+         "De-Evolution": "GrapLeomon "
+      },
+      {
+         "De-Evolution": "Panjyamon "
+      },
+      {
+         "De-Evolution": "MachGaogamon "
+      },
+      {
+         "De-Evolution": "WereGarurumon (Blk) "
+      }
+   ],
+   "Piedmon": [
+      {
+         "De-Evolution": "Myotismon "
+      },
+      {
+         "De-Evolution": "Etemon "
+      },
+      {
+         "De-Evolution": "Wisemon "
+      }
+   ],
+   "Puppetmon": [
+      {
+         "De-Evolution": "Cherrymon "
+      },
+      {
+         "De-Evolution": "Pumpkinmon "
+      },
+      {
+         "De-Evolution": "Mamemon "
+      }
+   ],
+   "PlatinumNumemon": [
+      {
+         "De-Evolution": "GoldNumemon "
+      },
+      {
+         "De-Evolution": "Etemon "
+      },
+      {
+         "De-Evolution": "SuperStarmon "
+      },
+      {
+         "De-Evolution": "BlackKingNumemon "
+      }
+   ],
+   "BlackWarGreymon": [
+      {
+         "De-Evolution": "Megadramon "
+      },
+      {
+         "De-Evolution": "MetalGreymon (Blue) "
+      },
+      {
+         "De-Evolution": "MetalTyrannomon "
+      }
+   ],
+   "PrinceMamemon": [
+      {
+         "De-Evolution": "BlackKingNumemon "
+      },
+      {
+         "De-Evolution": "Mamemon "
+      },
+      {
+         "De-Evolution": "MetalMamemon "
+      }
+   ],
+   "Plesiomon": [
+      {
+         "De-Evolution": "ShogunGekomon "
+      },
+      {
+         "De-Evolution": "Whamon "
+      },
+      {
+         "De-Evolution": "MegaSeadramon "
+      }
+   ],
+   "HerculesKabuterimon": [
+      {
+         "De-Evolution": "MegaKabuterimon "
+      },
+      {
+         "De-Evolution": "Okuwamon "
+      },
+      {
+         "De-Evolution": "Vademon "
+      }
+   ],
+   "Beelzemon": [
+      {
+         "De-Evolution": "Infermon "
+      },
+      {
+         "De-Evolution": "SkullMeramon "
+      }
+   ],
+   "Belphemon SM": [
+      {
+         "De-Evolution": "Digitamamon "
+      },
+      {
+         "De-Evolution": "Wisemon "
+      }
+   ],
+   "Hououmon": [
+      {
+         "De-Evolution": "Garudamon "
+      },
+      {
+         "De-Evolution": "Silphymon "
+      },
+      {
+         "De-Evolution": "Piximon "
+      }
+   ],
+   "Magnadramon": [
+      {
+         "De-Evolution": "MegaKabuterimon "
+      },
+      {
+         "De-Evolution": "Angewomon "
+      },
+      {
+         "De-Evolution": "Lillymon "
+      }
+   ],
+   "Boltmon": [
+      {
+         "De-Evolution": "SkullMeramon "
+      },
+      {
+         "De-Evolution": "Pumpkinmon "
+      },
+      {
+         "De-Evolution": "BlueMeramon "
+      }
+   ],
+   "Mastemon": [
+      {
+         "De-Evolution": "Angewomon "
+      },
+      {
+         "De-Evolution": "LadyDevimon "
+      }
+   ],
+   "MarineAngemon": [
+      {
+         "De-Evolution": "Zudomon "
+      },
+      {
+         "De-Evolution": "Piximon "
+      },
+      {
+         "De-Evolution": "Whamon "
+      }
+   ],
+   "Minervamon": [
+      {
+         "De-Evolution": "Digitamamon "
+      },
+      {
+         "De-Evolution": "Monzaemon "
+      },
+      {
+         "De-Evolution": "Crowmon "
+      },
+      {
+         "De-Evolution": "WereGarurumon (Blk) "
+      }
+   ],
+   "MirageGaogamon": [
+      {
+         "De-Evolution": "Panjyamon "
+      },
+      {
+         "De-Evolution": "MachGaogamon "
+      },
+      {
+         "De-Evolution": "WereGarurumon "
+      }
+   ],
+   "Machinedramon": [
+      {
+         "De-Evolution": "Gigadramon "
+      },
+      {
+         "De-Evolution": "Datamon "
+      },
+      {
+         "De-Evolution": "Megadramon "
+      }
+   ],
+   "MetalEtemon": [
+      {
+         "De-Evolution": "Meteormon "
+      },
+      {
+         "De-Evolution": "Etemon "
+      },
+      {
+         "De-Evolution": "BlackKingNumemon "
+      }
+   ],
+   "MetalGarurumon": [
+      {
+         "De-Evolution": "Chirinmon "
+      },
+      {
+         "De-Evolution": "Zudomon "
+      },
+      {
+         "De-Evolution": "WereGarurumon "
+      }
+   ],
+   "MetalGarurumon (Blk)": [
+      {
+         "De-Evolution": "Datamon "
+      },
+      {
+         "De-Evolution": "Rapidmon "
+      },
+      {
+         "De-Evolution": "WereGarurumon "
+      },
+      {
+         "De-Evolution": "WereGarurumon (Blk)"
+      }
+   ],
+   "MetalSeadramon": [
+      {
+         "De-Evolution": "Gigadramon "
+      },
+      {
+         "De-Evolution": "Whamon "
+      },
+      {
+         "De-Evolution": "MegaSeadramon "
+      }
+   ],
+   "RustTyranomon": [
+      {
+         "De-Evolution": "WarGrowlmon "
+      },
+      {
+         "De-Evolution": "MetalGreymon "
+      },
+      {
+         "De-Evolution": "MetalTyrannomon "
+      }
+   ],
+   "Leviamon": [
+      {
+         "De-Evolution": "ShogunGekomon "
+      },
+      {
+         "De-Evolution": "MegaSeadramon "
+      }
+   ],
+   "Lilithmon": [
+      {
+         "De-Evolution": "Lilamon "
+      },
+      {
+         "De-Evolution": "LadyDevimon "
+      }
+   ],
+   "Ravemon": [
+      {
+         "De-Evolution": "AeroVeedramon "
+      },
+      {
+         "De-Evolution": "Garudamon "
+      },
+      {
+         "De-Evolution": "Crowmon "
+      }
+   ],
+   "Crusadermon": [
+      {
+         "De-Evolution": "Knightmon "
+      },
+      {
+         "De-Evolution": "MagnaAngemon "
+      }
+   ],
+   "Rosemon": [
+      {
+         "De-Evolution": "Pumpkinmon "
+      },
+      {
+         "De-Evolution": "Lilamon "
+      },
+      {
+         "De-Evolution": "Lillymon "
+      }
+   ],
+   "Lotusmon": [
+      {
+         "De-Evolution": "Lilamon "
+      },
+      {
+         "De-Evolution": "Lillymon "
+      },
+      {
+         "De-Evolution": "LadyDevimon "
+      }
+   ],
+   "Imperialdramon PM": [
+      {
+         "De-Evolution": "Imperialdramon DM"
+      }
+   ],
+   "Omnimon": [
+      {
+         "De-Evolution": "WarGreymon "
+      },
+      {
+         "De-Evolution": "MetalGarurumon "
+      }
+   ],
+   "Omnimon Zwart": [
+      {
+         "De-Evolution": "BlackWarGreymon "
+      },
+      {
+         "De-Evolution": "MetalGarurumon (Blk) "
+      }
+   ],
+   "Belphemon RM": [
+      {
+         "De-Evolution": "Belphemon SM"
+      }
+   ],
+   "Lucemon SM": [
+      {
+         "De-Evolution": "Lucemon CM"
+      }
+   ],
+   "Kerpymon (Blk)": [
+      {
+         "De-Evolution": "Antylamon"
+      },
+      {
+         "De-Evolution": "MetalGreymon (Blue)"
+      }
+   ],
+   "Beelzemon BM": [
+      {
+         "De-Evolution": "Beelzemon"
+      }
+   ],
+   "Flamedramon": [
+      {
+         "De-Evolution": "Veemon"
+      }
+   ],
+   "Magnamon": [
+      {
+         "De-Evolution": "Veemon"
+      }
+   ],
+   "Rapidmon (Armor)": [
+      {
+         "De-Evolution": "Terriermon"
+      }
+   ],
+   "Wisemon": [
+      {
+         "De-Evolution": "Wizardmon "
+      },
+      {
+         "De-Evolution": "Clockmon "
+      },
+      {
+         "De-Evolution": "Socerimon"
+      }
+   ],
+   "WereGarurumon (Blk)": [
+      {
+         "De-Evolution": "Garurumon (Blk) "
+      },
+      {
+         "De-Evolution": "BlackGatomon "
+      }
+   ],
+   "WereGarurumon": [
+      {
+         "De-Evolution": "Ogremon "
+      },
+      {
+         "De-Evolution": "GaoGamon "
+      },
+      {
+         "De-Evolution": "Garurumon "
+      }
+   ],
+   "LadyDevimon": [
+      {
+         "De-Evolution": "Kyubimon "
+      },
+      {
+         "De-Evolution": "Bakemon "
+      },
+      {
+         "De-Evolution": "BlackGatomon "
+      },
+      {
+         "De-Evolution": "IceDevimon "
+      }
+   ],
+   "Lucemon CM": [
+      {
+         "De-Evolution": "Lucemon"
+      }
+   ],
+   "Lillymon": [
+      {
+         "De-Evolution": "Sunflowmon "
+      },
+      {
+         "De-Evolution": "Gatomon "
+      },
+      {
+         "De-Evolution": "Togemon "
+      }
+   ],
+   "Rapidmon": [
+      {
+         "De-Evolution": "Gargomon "
+      },
+      {
+         "De-Evolution": "Reppamon "
+      },
+      {
+         "De-Evolution": "Waspmon "
+      }
+   ],
+   "Lilamon": [
+      {
+         "De-Evolution": "Kabuterimon "
+      },
+      {
+         "De-Evolution": "Sunflowmon "
+      },
+      {
+         "De-Evolution": "Vegiemon "
+      }
+   ],
+   "RizeGreymon ": [
+      {
+         "De-Evolution": "ExVeemon "
+      },
+      {
+         "De-Evolution": "GeoGreymon "
+      },
+      {
+         "De-Evolution": "Dorugamon "
+      }
+   ],
+   "Crowmon": [
+      {
+         "De-Evolution": "Aquilamon "
+      },
+      {
+         "De-Evolution": "Birdramon "
+      },
+      {
+         "De-Evolution": "Peckmon "
+      }
+   ],
+   "Monzaemon": [
+      {
+         "De-Evolution": "Kyubimon "
+      },
+      {
+         "De-Evolution": "Numemon "
+      },
+      {
+         "De-Evolution": "Frigimon "
+      }
+   ],
+   "Digitamamon": [
+      {
+         "De-Evolution": "Ogremon "
+      },
+      {
+         "De-Evolution": "Nanimon "
+      },
+      {
+         "De-Evolution": "Vegiemon "
+      }
+   ],
+   "SkullMeramon": [
+      {
+         "De-Evolution": "Wizardmon "
+      },
+      {
+         "De-Evolution": "Ogremon "
+      },
+      {
+         "De-Evolution": "Meramon "
+      }
+   ],
+   "ShogunGekomon": [
+      {
+         "De-Evolution": "ShellNumemon "
+      },
+      {
+         "De-Evolution": "Gekomon "
+      },
+      {
+         "De-Evolution": "Seadramon "
+      }
+   ],
+   "DoruGreymon": [
+      {
+         "De-Evolution": "Garurumon "
+      },
+      {
+         "De-Evolution": "Cyclonemon "
+      },
+      {
+         "De-Evolution": "Dorugamon "
+      },
+      {
+         "De-Evolution": "Greymon (Blue) "
+      }
+   ],
+   "Knightmon": [
+      {
+         "De-Evolution": "Clockmon "
+      },
+      {
+         "De-Evolution": "Tankmon "
+      },
+      {
+         "De-Evolution": "BlackGatomon "
+      },
+      {
+         "De-Evolution": "Greymon (Blue) "
+      }
+   ],
+   "Datamon": [
+      {
+         "De-Evolution": "Guardromon "
+      },
+      {
+         "De-Evolution": "Clockmon "
+      },
+      {
+         "De-Evolution": "Cyclonemon "
+      }
+   ],
+   "Paildramon": [
+      {
+         "De-Evolution": "ExVeemon "
+      },
+      {
+         "De-Evolution": "Stingmon "
+      }
+   ],
+   "Panjyamon": [
+      {
+         "De-Evolution": "Garurumon "
+      },
+      {
+         "De-Evolution": "Meramon "
+      },
+      {
+         "De-Evolution": "Leomon "
+      }
+   ],
+   "Pumpkinmon": [
+      {
+         "De-Evolution": "Woodmon "
+      },
+      {
+         "De-Evolution": "Togemon "
+      },
+      {
+         "De-Evolution": "Bakemon "
+      }
+   ],
+   "Piximon": [
+      {
+         "De-Evolution": "Socerimon"
+      },
+      {
+         "De-Evolution": "Peckmon "
+      },
+      {
+         "De-Evolution": "Reppamon "
+      }
+   ],
+   "BlackKingNumemon": [
+      {
+         "De-Evolution": "ShellNumemon "
+      },
+      {
+         "De-Evolution": "GoldNumemon "
+      },
+      {
+         "De-Evolution": "Numemon "
+      }
+   ],
+   "BlueMeramon": [
+      {
+         "De-Evolution": "Devimon "
+      },
+      {
+         "De-Evolution": "Bakemon "
+      },
+      {
+         "De-Evolution": "Meramon "
+      },
+      {
+         "De-Evolution": "Garurumon (Blk)"
+      }
+   ],
+   "Vademon": [
+      {
+         "De-Evolution": "GoldNumemon "
+      },
+      {
+         "De-Evolution": "Sukamon "
+      },
+      {
+         "De-Evolution": "PlatinumSukamon "
+      }
+   ],
+   "Whamon": [
+      {
+         "De-Evolution": "Ikkakumon "
+      },
+      {
+         "De-Evolution": "Gekomon "
+      },
+      {
+         "De-Evolution": "Seadramon"
+      }
+   ],
+   "MagnaAngemon": [
+      {
+         "De-Evolution": "Ankylomon "
+      },
+      {
+         "De-Evolution": "ExVeemon "
+      },
+      {
+         "De-Evolution": "Angemon "
+      }
+   ],
+   "MachGaogamon": [
+      {
+         "De-Evolution": "Ikkakumon "
+      },
+      {
+         "De-Evolution": "GaoGamon "
+      },
+      {
+         "De-Evolution": "Togemon "
+      },
+      {
+         "De-Evolution": "Garurumon (Blk)"
+      }
+   ],
+   "Mamemon": [
+      {
+         "De-Evolution": "Starmon "
+      },
+      {
+         "De-Evolution": "Tyrannomon "
+      },
+      {
+         "De-Evolution": "Meramon "
+      }
+   ],
+   "MegaSeadramon": [
+      {
+         "De-Evolution": "ShellNumemon "
+      },
+      {
+         "De-Evolution": "Gekomon "
+      },
+      {
+         "De-Evolution": "Seadramon "
+      }
+   ],
+   "Megadramon": [
+      {
+         "De-Evolution": "Greymon "
+      },
+      {
+         "De-Evolution": "Cyclonemon "
+      },
+      {
+         "De-Evolution": "Tyrannomon "
+      }
+   ],
+   "WarGrowlmon": [
+      {
+         "De-Evolution": "Gargomon "
+      },
+      {
+         "De-Evolution": "Growlmon "
+      },
+      {
+         "De-Evolution": "Veedramon "
+      }
+   ],
+   "MetalGreymon": [
+      {
+         "De-Evolution": "Growlmon "
+      },
+      {
+         "De-Evolution": "Greymon "
+      },
+      {
+         "De-Evolution": "Leomon "
+      }
+   ],
+   "MetalGreymon (Blue)": [
+      {
+         "De-Evolution": "Greymon "
+      },
+      {
+         "De-Evolution": "Tyrannomon "
+      },
+      {
+         "De-Evolution": "Devimon "
+      },
+      {
+         "De-Evolution": "Greymon (Blue) "
+      }
+   ],
+   "MetalTyrannomon": [
+      {
+         "De-Evolution": "Growlmon "
+      },
+      {
+         "De-Evolution": "Tyrannomon "
+      },
+      {
+         "De-Evolution": "Veedramon "
+      }
+   ],
+   "MetalMamemon": [
+      {
+         "De-Evolution": "Guardromon "
+      },
+      {
+         "De-Evolution": "Starmon "
+      },
+      {
+         "De-Evolution": "PlatinumSukamon "
+      },
+      {
+         "De-Evolution": "Geremon "
+      }
+   ],
+   "MegaKabuterimon": [
+      {
+         "De-Evolution": "Kabuterimon "
+      },
+      {
+         "De-Evolution": "Vegiemon "
+      },
+      {
+         "De-Evolution": "Waspmon "
+      }
+   ],
+   "Antylamon": [
+      {
+         "De-Evolution": "Gargomon "
+      },
+      {
+         "De-Evolution": "Socerimon"
+      },
+      {
+         "De-Evolution": "Peckmon "
+      }
+   ],
+   "Andromon": [
+      {
+         "De-Evolution": "Guardromon "
+      },
+      {
+         "De-Evolution": "Clockmon "
+      },
+      {
+         "De-Evolution": "Tankmon "
+      }
+   ],
+   "Meteormon ": [
+      {
+         "De-Evolution": "Ankylomon "
+      },
+      {
+         "De-Evolution": "Nanimon "
+      },
+      {
+         "De-Evolution": "Leomon "
+      }
+   ],
+   "Infermon": [
+      {
+         "De-Evolution": "Kurisarimon "
+      },
+      {
+         "De-Evolution": "Stingmon "
+      },
+      {
+         "De-Evolution": "Devimon "
+      }
+   ],
+   "Myotismon": [
+      {
+         "De-Evolution": "Wizardmon "
+      },
+      {
+         "De-Evolution": "Devimon "
+      },
+      {
+         "De-Evolution": "Bakemon "
+      },
+      {
+         "De-Evolution": "IceDevimon "
+      }
+   ],
+   "AeroVeedramon": [
+      {
+         "De-Evolution": "Aquilamon "
+      },
+      {
+         "De-Evolution": "Birdramon "
+      },
+      {
+         "De-Evolution": "Veedramon "
+      }
+   ],
+   "Etemon": [
+      {
+         "De-Evolution": "Sukamon "
+      },
+      {
+         "De-Evolution": "Numemon "
+      },
+      {
+         "De-Evolution": "PlatinumSukamon "
+      },
+      {
+         "De-Evolution": "Geremon "
+      }
+   ],
+   "Angewomon": [
+      {
+         "De-Evolution": "Sunflowmon "
+      },
+      {
+         "De-Evolution": "Gatomon "
+      },
+      {
+         "De-Evolution": "Frigimon "
+      }
+   ],
+   "Okuwamon": [
+      {
+         "De-Evolution": "Kuwagamon "
+      },
+      {
+         "De-Evolution": "Stingmon "
+      },
+      {
+         "De-Evolution": "Waspmon "
+      }
+   ],
+   "Garudamon": [
+      {
+         "De-Evolution": "Aquilamon "
+      },
+      {
+         "De-Evolution": "Angemon "
+      },
+      {
+         "De-Evolution": "Birdramon "
+      }
+   ],
+   "Gigadramon": [
+      {
+         "De-Evolution": "Growlmon "
+      },
+      {
+         "De-Evolution": "GeoGreymon "
+      },
+      {
+         "De-Evolution": "Tankmon "
+      }
+   ],
+   "CannonBeemon": [
+      {
+         "De-Evolution": "Kuwagamon "
+      },
+      {
+         "De-Evolution": "Tankmon "
+      },
+      {
+         "De-Evolution": "Waspmon "
+      }
+   ],
+   "GrapLeomon": [
+      {
+         "De-Evolution": "Guardromon "
+      },
+      {
+         "De-Evolution": "GaoGamon "
+      },
+      {
+         "De-Evolution": "Leomon "
+      }
+   ],
+   "Cyberdramon": [
+      {
+         "De-Evolution": "Kurisarimon "
+      },
+      {
+         "De-Evolution": "Veedramon "
+      },
+      {
+         "De-Evolution": "BlackGatomon "
+      }
+   ],
+   "Shakkoumon": [
+      {
+         "De-Evolution": "Ankylomon "
+      },
+      {
+         "De-Evolution": "Angemon "
+      }
+   ],
+   "Cherrymon": [
+      {
+         "De-Evolution": "Woodmon "
+      },
+      {
+         "De-Evolution": "Kabuterimon "
+      },
+      {
+         "De-Evolution": "Kuwagamon "
+      },
+      {
+         "De-Evolution": "IceDevimon "
+      }
+   ],
+   "Silphymon": [
+      {
+         "De-Evolution": "Aquilamon "
+      },
+      {
+         "De-Evolution": "Gatomon "
+      }
+   ],
+   "SuperStarmon": [
+      {
+         "De-Evolution": "Sukamon "
+      },
+      {
+         "De-Evolution": "Starmon "
+      },
+      {
+         "De-Evolution": "Nanimon "
+      },
+      {
+         "De-Evolution": "Geremon "
+      }
+   ],
+   "SkullGreymon": [
+      {
+         "De-Evolution": "Ankylomon "
+      },
+      {
+         "De-Evolution": "Greymon "
+      }
+   ],
+   "Zudomon": [
+      {
+         "De-Evolution": "Ikkakumon "
+      },
+      {
+         "De-Evolution": "Garurumon "
+      },
+      {
+         "De-Evolution": "Frigimon "
+      }
+   ],
+   "Taomon": [
+      {
+         "De-Evolution": "Woodmon "
+      },
+      {
+         "De-Evolution": "Kyubimon "
+      },
+      {
+         "De-Evolution": "Kurisarimon "
+      }
+   ],
+   "Chirinmon": [
+      {
+         "De-Evolution": "Dorugamon "
+      },
+      {
+         "De-Evolution": "Birdramon "
+      },
+      {
+         "De-Evolution": "Reppamon "
+      }
+   ],
+   "Sunflowmon": [
+      {
+         "De-Evolution": "Tentomon "
+      },
+      {
+         "De-Evolution": "Palmon "
+      },
+      {
+         "De-Evolution": "Lalamon "
+      }
+   ],
+   "Seadramon": [
+      {
+         "De-Evolution": "Otamamon "
+      },
+      {
+         "De-Evolution": "Syakomon "
+      },
+      {
+         "De-Evolution": "Betamon "
+      }
+   ],
+   "GeoGreymon": [
+      {
+         "De-Evolution": "Agumon "
+      },
+      {
+         "De-Evolution": "Guilmon "
+      },
+      {
+         "De-Evolution": "Hackmon "
+      }
+   ],
+   "Sukamon": [
+      {
+         "De-Evolution": "Agumon "
+      },
+      {
+         "De-Evolution": "Elecmon "
+      },
+      {
+         "De-Evolution": "ToyAgumon "
+      }
+   ],
+   "Starmon": [
+      {
+         "De-Evolution": "Gotsumon "
+      },
+      {
+         "De-Evolution": "ToyAgumon "
+      },
+      {
+         "De-Evolution": "Hagurumon "
+      },
+      {
+         "De-Evolution": "Solarmon "
+      }
+   ],
+   "Stingmon": [
+      {
+         "De-Evolution": "Tentomon "
+      },
+      {
+         "De-Evolution": "Falcomon "
+      },
+      {
+         "De-Evolution": "Wormmon "
+      }
+   ],
+   "Socerimon": [
+      {
+         "De-Evolution": "Impmon "
+      },
+      {
+         "De-Evolution": "Gomamon "
+      },
+      {
+         "De-Evolution": "Salamon "
+      }
+   ],
+   "Tankmon": [
+      {
+         "De-Evolution": "Agumon (Blk) "
+      },
+      {
+         "De-Evolution": "Armadillomon "
+      },
+      {
+         "De-Evolution": "Gotsumon "
+      }
+   ],
+   "Tyrannomon": [
+      {
+         "De-Evolution": "Agumon "
+      },
+      {
+         "De-Evolution": "Agumon (Blk) "
+      },
+      {
+         "De-Evolution": "Guilmon "
+      }
+   ],
+   "Gatomon": [
+      {
+         "De-Evolution": "Terriermon "
+      },
+      {
+         "De-Evolution": "Patamon "
+      },
+      {
+         "De-Evolution": "Salamon "
+      }
+   ],
+   "Devimon": [
+      {
+         "De-Evolution": "DemiDevimon "
+      },
+      {
+         "De-Evolution": "Lucemon "
+      },
+      {
+         "De-Evolution": "Lopmon "
+      }
+   ],
+   "Togemon": [
+      {
+         "De-Evolution": "Gaomon "
+      },
+      {
+         "De-Evolution": "Palmon "
+      },
+      {
+         "De-Evolution": "Lalamon "
+      }
+   ],
+   "Dorugamon": [
+      {
+         "De-Evolution": "Gazimon "
+      },
+      {
+         "De-Evolution": "Gabumon "
+      },
+      {
+         "De-Evolution": "Dorumon "
+      }
+   ],
+   "Nanimon": [
+      {
+         "De-Evolution": "Elecmon "
+      },
+      {
+         "De-Evolution": "Gazimon "
+      },
+      {
+         "De-Evolution": "Goblimon "
+      }
+   ],
+   "Numemon": [
+      {
+         "De-Evolution": "Otamamon "
+      },
+      {
+         "De-Evolution": "Gabumon "
+      },
+      {
+         "De-Evolution": "Betamon "
+      }
+   ],
+   "Birdramon": [
+      {
+         "De-Evolution": "Patamon "
+      },
+      {
+         "De-Evolution": "Biyomon "
+      },
+      {
+         "De-Evolution": "Hawkmon "
+      }
+   ],
+   "Bakemon": [
+      {
+         "De-Evolution": "Impmon "
+      },
+      {
+         "De-Evolution": "Keramon "
+      },
+      {
+         "De-Evolution": "DemiDevimon "
+      }
+   ],
+   "Veedramon": [
+      {
+         "De-Evolution": "Gabumon "
+      },
+      {
+         "De-Evolution": "Veemon "
+      },
+      {
+         "De-Evolution": "Salamon "
+      }
+   ],
+   "PlatinumSukamon": [
+      {
+         "De-Evolution": "Keramon "
+      },
+      {
+         "De-Evolution": "Hagurumon "
+      },
+      {
+         "De-Evolution": "Hackmon "
+      }
+   ],
+   "BlackGatomon": [
+      {
+         "De-Evolution": "Impmon "
+      },
+      {
+         "De-Evolution": "Renamon "
+      },
+      {
+         "De-Evolution": "Lopmon "
+      }
+   ],
+   "Vegiemon": [
+      {
+         "De-Evolution": "Palmon "
+      },
+      {
+         "De-Evolution": "Betamon "
+      },
+      {
+         "De-Evolution": "Lalamon "
+      },
+      {
+         "De-Evolution": "Gabumon (Blk) "
+      }
+   ],
+   "Peckmon": [
+      {
+         "De-Evolution": "Kudamon "
+      },
+      {
+         "De-Evolution": "Falcomon "
+      },
+      {
+         "De-Evolution": "Hawkmon "
+      }
+   ],
+   "Meramon": [
+      {
+         "De-Evolution": "Agumon "
+      },
+      {
+         "De-Evolution": "Guilmon "
+      },
+      {
+         "De-Evolution": "Hawkmon "
+      },
+      {
+         "De-Evolution": "Solarmon "
+      }
+   ],
+   "Frigimon": [
+      {
+         "De-Evolution": "Gabumon "
+      },
+      {
+         "De-Evolution": "Gomamon "
+      },
+      {
+         "De-Evolution": "Salamon "
+      },
+      {
+         "De-Evolution": "Gabumon (Blk) "
+      }
+   ],
+   "Leomon": [
+      {
+         "De-Evolution": "Elecmon "
+      },
+      {
+         "De-Evolution": "Gaomon "
+      },
+      {
+         "De-Evolution": "Gazimon "
+      }
+   ],
+   "Reppamon": [
+      {
+         "De-Evolution": "Kudamon "
+      },
+      {
+         "De-Evolution": "Patamon "
+      },
+      {
+         "De-Evolution": "Salamon "
+      },
+      {
+         "De-Evolution": "Gabumon (Blk) "
+      }
+   ],
+   "Waspmon": [
+      {
+         "De-Evolution": "Tentomon "
+      },
+      {
+         "De-Evolution": "Dorumon "
+      },
+      {
+         "De-Evolution": "Wormmon "
+      }
+   ],
+   "IceDevimon": [
+      {
+         "De-Evolution": "Impmon "
+      },
+      {
+         "De-Evolution": "DemiDevimon "
+      },
+      {
+         "De-Evolution": "Wormmon "
+      }
+   ],
+   "Aquilamon": [
+      {
+         "De-Evolution": "Biyomon "
+      },
+      {
+         "De-Evolution": "Falcomon "
+      },
+      {
+         "De-Evolution": "Hawkmon "
+      }
+   ],
+   "Ankylomon": [
+      {
+         "De-Evolution": "Armadillomon "
+      },
+      {
+         "De-Evolution": "Gotsumon "
+      },
+      {
+         "De-Evolution": "Gomamon "
+      }
+   ],
+   "Ikkakumon": [
+      {
+         "De-Evolution": "Gomamon "
+      }
+   ],
+   "Ikkakumon ": [
+      {
+         "De-Evolution": "Syakomon "
+      },
+      {
+         "De-Evolution": "Terriermon "
+      }
+   ],
+   "Wizardmon": [
+      {
+         "De-Evolution": "Impmon "
+      },
+      {
+         "De-Evolution": "Keramon "
+      },
+      {
+         "De-Evolution": "Lopmon "
+      }
+   ],
+   "Woodmon": [
+      {
+         "De-Evolution": "Palmon "
+      },
+      {
+         "De-Evolution": "Lalamon "
+      },
+      {
+         "De-Evolution": "Renamon "
+      }
+   ],
+   "ExVeemon": [
+      {
+         "De-Evolution": "Patamon "
+      },
+      {
+         "De-Evolution": "Falcomon "
+      },
+      {
+         "De-Evolution": "Veemon "
+      }
+   ],
+   "Angemon": [
+      {
+         "De-Evolution": "Kudamon "
+      },
+      {
+         "De-Evolution": "Patamon "
+      },
+      {
+         "De-Evolution": "Lucemon "
+      }
+   ],
+   "Ogremon": [
+      {
+         "De-Evolution": "Impmon "
+      },
+      {
+         "De-Evolution": "Gaomon "
+      },
+      {
+         "De-Evolution": "Goblimon "
+      }
+   ],
+   "Guardromon": [
+      {
+         "De-Evolution": "ToyAgumon "
+      },
+      {
+         "De-Evolution": "Dorumon "
+      },
+      {
+         "De-Evolution": "Hagurumon "
+      }
+   ],
+   "GaoGamon": [
+      {
+         "De-Evolution": "Gaomon "
+      },
+      {
+         "De-Evolution": "Gazimon "
+      },
+      {
+         "De-Evolution": "Goblimon "
+      }
+   ],
+   "Kabuterimon": [
+      {
+         "De-Evolution": "Tentomon "
+      },
+      {
+         "De-Evolution": "Biyomon "
+      },
+      {
+         "De-Evolution": "Wormmon "
+      }
+   ],
+   "ShellNumemon": [
+      {
+         "De-Evolution": "Otamamon "
+      },
+      {
+         "De-Evolution": "Syakomon "
+      },
+      {
+         "De-Evolution": "Betamon "
+      }
+   ],
+   "Gargomon": [
+      {
+         "De-Evolution": "Gaomon "
+      },
+      {
+         "De-Evolution": "Terriermo"
+      },
+      {
+         "De-Evolution": "Lopmon "
+      }
+   ],
+   "Garurumon": [
+      {
+         "De-Evolution": "Elecmon "
+      },
+      {
+         "De-Evolution": "Gabumon"
+      },
+      {
+         "De-Evolution": "Renamon "
+      }
+   ],
+   "Garurumon (Blk)": [
+      {
+         "De-Evolution": "Gabumon (Blk) "
+      },
+      {
+         "De-Evolution": "Elecmon "
+      },
+      {
+         "De-Evolution": "Gazimon "
+      }
+   ],
+   "Kyubimon": [
+      {
+         "De-Evolution": "DemiDevimon "
+      },
+      {
+         "De-Evolution": "Biyomon "
+      },
+      {
+         "De-Evolution": "Renamon "
+      }
+   ],
+   "Growlmon": [
+      {
+         "De-Evolution": "Agumon (Blk) "
+      },
+      {
+         "De-Evolution": "Guilmon "
+      },
+      {
+         "De-Evolution": "Goblimon "
+      }
+   ],
+   "Kurisarimon": [
+      {
+         "De-Evolution": "Gazimon "
+      },
+      {
+         "De-Evolution": "Keramon"
+      },
+      {
+         "De-Evolution": "DemiDevimon "
+      }
+   ],
+   "Greymon": [
+      {
+         "De-Evolution": "Agumon "
+      },
+      {
+         "De-Evolution": "ToyAgumon "
+      },
+      {
+         "De-Evolution": "Hackmon "
+      }
+   ],
+   "Greymon (Blue)": [
+      {
+         "De-Evolution": "Agumon (Blk) "
+      },
+      {
+         "De-Evolution": "Guilmon "
+      },
+      {
+         "De-Evolution": "Goblimon "
+      }
+   ],
+   "Clockmon": [
+      {
+         "De-Evolution": "Gotsumon "
+      },
+      {
+         "De-Evolution": "ToyAgumon "
+      },
+      {
+         "De-Evolution": "Hagurumon "
+      },
+      {
+         "De-Evolution": "Solarmon "
+      }
+   ],
+   "Kuwagamon": [
+      {
+         "De-Evolution": "Tentomon "
+      },
+      {
+         "De-Evolution": "Palmon "
+      },
+      {
+         "De-Evolution": "Wormmon "
+      }
+   ],
+   "Gekomon": [
+      {
+         "De-Evolution": "Otamamon "
+      },
+      {
+         "De-Evolution": "Syakomon "
+      },
+      {
+         "De-Evolution": "Betamon "
+      }
+   ],
+   "Geremon": [
+      {
+         "De-Evolution": "Armadillomon "
+      },
+      {
+         "De-Evolution": "Elecmon "
+      },
+      {
+         "De-Evolution": "Solarmon "
+      }
+   ],
+   "GoldNumemon": [
+      {
+         "De-Evolution": "Armadillomon "
+      },
+      {
+         "De-Evolution": "Kudamon "
+      },
+      {
+         "De-Evolution": "Hagurumon "
+      }
+   ],
+   "Cyclonemon": [
+      {
+         "De-Evolution": "Agumon (Blk) "
+      },
+      {
+         "De-Evolution": "Armadillomon "
+      },
+      {
+         "De-Evolution": "Dorumon "
+      }
+   ],
+   "Gazimon": [
+      {
+         "De-Evolution": "Pagumon "
+      }
+   ],
+   "Gabumon": [
+      {
+         "De-Evolution": "Tsunomon "
+      }
+   ],
+   "Gabumon (Blk)": [
+      {
+         "De-Evolution": "Tsunomon "
+      }
+   ],
+   "Guilmon": [
+      {
+         "De-Evolution": "Koromon "
+      }
+   ],
+   "Kudamon": [
+      {
+         "De-Evolution": "Wanyamon "
+      }
+   ],
+   "Keramon": [
+      {
+         "De-Evolution": "Tsumemon "
+      }
+   ],
+   "Gotsumon": [
+      {
+         "De-Evolution": "Motimon "
+      }
+   ],
+   "Goblimon": [
+      {
+         "De-Evolution": "Tsunomon "
+      }
+   ],
+   "Gomamon": [
+      {
+         "De-Evolution": "Bukamon "
+      }
+   ],
+   "Syakomon": [
+      {
+         "De-Evolution": "Bukamon "
+      }
+   ],
+   "Solarmon": [
+      {
+         "De-Evolution": "Motimon "
+      }
+   ],
+   "Terriermon": [
+      {
+         "De-Evolution": "Nyaromon "
+      }
+   ],
+   "Tentomon": [
+      {
+         "De-Evolution": "Motimon "
+      }
+   ],
+   "ToyAgumon": [
+      {
+         "De-Evolution": "Koromon "
+      }
+   ],
+   "Dorumon": [
+      {
+         "De-Evolution": "Wanyamon "
+      }
+   ],
+   "Hagurumon": [
+      {
+         "De-Evolution": "Motimon "
+      }
+   ],
+   "Patamon": [
+      {
+         "De-Evolution": "Tokomon "
+      }
+   ],
+   "Hackmon": [
+      {
+         "De-Evolution": "Koromon "
+      }
+   ],
+   "Palmon": [
+      {
+         "De-Evolution": "Tanemon "
+      }
+   ],
+   "DemiDevimon": [
+      {
+         "De-Evolution": "Tsumemon "
+      }
+   ],
+   "Biyomon": [
+      {
+         "De-Evolution": "Yokomon "
+      }
+   ],
+   "Falcomon": [
+      {
+         "De-Evolution": "Tokomon "
+      }
+   ],
+   "Veemon": [
+      {
+         "De-Evolution": "Tsunomon "
+      }
+   ],
+   "Salamon": [
+      {
+         "De-Evolution": "Nyaromon "
+      }
+   ],
+   "Betamon": [
+      {
+         "De-Evolution": "Bukamon "
+      }
+   ],
+   "Hawkmon": [
+      {
+         "De-Evolution": "Tokomon "
+      }
+   ],
+   "Lalamon": [
+      {
+         "De-Evolution": "Tanemon "
+      }
+   ],
+   "Lucemon": [
+      {
+         "De-Evolution": "Tokomon "
+      }
+   ],
+   "Renamon": [
+      {
+         "De-Evolution": "Tanemon "
+      }
+   ],
+   "Lopmon": [
+      {
+         "De-Evolution": "Pagumon "
+      }
+   ],
+   "Wormmon": [
+      {
+         "De-Evolution": "Yokomon "
+      }
+   ],
+   "Gaomon": [
+      {
+         "De-Evolution": "Wanyamon "
+      }
+   ],
+   "Otamamon": [
+      {
+         "De-Evolution": "Bukamon "
+      }
+   ],
+   "Elecmon": [
+      {
+         "De-Evolution": "Yokomon "
+      }
+   ],
+   "Impmon": [
+      {
+         "De-Evolution": "Pagumon "
+      }
+   ],
+   "Armadillomon": [
+      {
+         "De-Evolution": "Nyaromon "
+      }
+   ],
+   "Agumon (Blk)": [
+      {
+         "De-Evolution": "Tsumemon "
+      }
+   ],
+   "Agumon": [
+      {
+         "De-Evolution": "Koromon "
+      }
+   ],
+   "Wanyamon": [
+      {
+         "De-Evolution": "Botamon "
+      }
+   ],
+   "Motimon": [
+      {
+         "De-Evolution": "Pabumon "
+      }
+   ],
+   "Bukamon": [
+      {
+         "De-Evolution": "Poyomon "
+      }
+   ],
+   "Yokomon": [
+      {
+         "De-Evolution": "Pabumon "
+      }
+   ],
+   "Pagumon": [
+      {
+         "De-Evolution": "Kuramon "
+      }
+   ],
+   "Nyaromon": [
+      {
+         "De-Evolution": "Punimon "
+      }
+   ],
+   "Tokomon": [
+      {
+         "De-Evolution": "Poyomon "
+      }
+   ],
+   "Tsumemon": [
+      {
+         "De-Evolution": "Kuramon "
+      }
+   ],
+   "Tsunomon": [
+      {
+         "De-Evolution": "Punimon "
+      }
+   ],
+   "Tanemon": [
+      {
+         "De-Evolution": "Pabumon "
+      }
+   ],
+   "Koromon": [
+      {
+         "De-Evolution": "Botamon "
+      }
+   ],
+   "Poyomon": [
+      {
+         "De-Evolution": "Baby"
+      }
+   ],
+   "Botamon": [
+      {
+         "De-Evolution": "Baby"
+      }
+   ],
+   "Punimon": [
+      {
+         "De-Evolution": "Baby"
+      }
+   ],
+   "Pabumon": [
+      {
+         "De-Evolution": "Baby"
+      }
+   ],
+   "Kuramon": [
+      {
+         "De-Evolution": "Baby"
+      }
+   ]
+}

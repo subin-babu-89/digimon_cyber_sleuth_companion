@@ -1,0 +1,2402 @@
+{
+   "Kuramon": {
+      "Rank": "Baby",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Bubbamon": {
+      "Rank": "Baby",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Punimon": {
+      "Rank": "Baby",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Botamon": {
+      "Rank": "Baby",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Poyomon": {
+      "Rank": "Baby",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Koromon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Tanemon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Tsunomon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Tsumemon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Tokomon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Nyaromon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Pagumon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Pyocomon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Pukamon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Motimon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Wanyamon": {
+      "Rank": "In-Training",
+      "HP": "---",
+      "SP": "---",
+      "Atk": "---",
+      "Int": "---",
+      "Def": "---",
+      "Spd": "---",
+      "Skill": "Increase accuracy and evasion by 1%."
+   },
+   "Agumon": {
+      "Rank": "Rookie",
+      "HP": "1620",
+      "SP": "98",
+      "Atk": "195",
+      "Int": "93",
+      "Def": "162",
+      "Spd": "135",
+      "Skill": "Increase damage dealt from fire skills by 15%."
+   },
+   "BlackAgumon": {
+      "Rank": "Rookie",
+      "HP": "1610",
+      "SP": "95",
+      "Atk": "188",
+      "Int": "95",
+      "Def": "167",
+      "Spd": "134",
+      "Skill": "Increase ATK by 15%."
+   },
+   "Armadillomon": {
+      "Rank": "Rookie",
+      "HP": "1800",
+      "SP": "139",
+      "Atk": "111",
+      "Int": "109",
+      "Def": "175",
+      "Spd": "111",
+      "Skill": "Increase DEF by 15%."
+   },
+   "Impmon": {
+      "Rank": "Rookie",
+      "HP": "920",
+      "SP": "178",
+      "Atk": "122",
+      "Int": "178",
+      "Def": "109",
+      "Spd": "161",
+      "Skill": "Increase INT by 15%."
+   },
+   "Elecmon": {
+      "Rank": "Rookie",
+      "HP": "1470",
+      "SP": "147",
+      "Atk": "131",
+      "Int": "128",
+      "Def": "128",
+      "Spd": "144",
+      "Skill": "Increase damage dealt from thunder skills by 15%."
+   },
+   "Otamamon": {
+      "Rank": "Rookie",
+      "HP": "1470",
+      "SP": "164",
+      "Atk": "91",
+      "Int": "177",
+      "Def": "124",
+      "Spd": "122",
+      "Skill": "When attacking, 10% chance to inflict Sleep status effect."
+   },
+   "Gaomon": {
+      "Rank": "Rookie",
+      "HP": "1620",
+      "SP": "113",
+      "Atk": "182",
+      "Int": "105",
+      "Def": "118",
+      "Spd": "160",
+      "Skill": "Increase evasion by 7%."
+   },
+   "Gazimon": {
+      "Rank": "Rookie",
+      "HP": "1560",
+      "SP": "115",
+      "Atk": "187",
+      "Int": "98",
+      "Def": "108",
+      "Spd": "161",
+      "Skill": "Increase damage dealt from dark skills by 15%."
+   },
+   "Gabumon": {
+      "Rank": "Rookie",
+      "HP": "1520",
+      "SP": "142",
+      "Atk": "143",
+      "Int": "128",
+      "Def": "130",
+      "Spd": "145",
+      "Skill": "Increase SPD by 15%."
+   },
+   "BlackGabumon": {
+      "Rank": "Rookie",
+      "HP": "1490",
+      "SP": "137",
+      "Atk": "148",
+      "Int": "123",
+      "Def": "138",
+      "Spd": "145",
+      "Skill": "When attacking, 10% chance to inflict Stun status effect."
+   },
+   "Guilmon": {
+      "Rank": "Rookie",
+      "HP": "1640",
+      "SP": "113",
+      "Atk": "197",
+      "Int": "93",
+      "Def": "118",
+      "Spd": "160",
+      "Skill": "Increase ATK, DEF, INT and SPD by 5%."
+   },
+   "Kudamon": {
+      "Rank": "Rookie",
+      "HP": "980",
+      "SP": "192",
+      "Atk": "92",
+      "Int": "181",
+      "Def": "118",
+      "Spd": "164",
+      "Skill": "Reduce the chance of receiving status effects by 50%."
+   },
+   "Keramon": {
+      "Rank": "Rookie",
+      "HP": "1620",
+      "SP": "118",
+      "Atk": "187",
+      "Int": "100",
+      "Def": "113",
+      "Spd": "160",
+      "Skill": "When attacking, 10% chance to inflict Death status effect."
+   },
+   "Gotsumon": {
+      "Rank": "Rookie",
+      "HP": "1280",
+      "SP": "128",
+      "Atk": "147",
+      "Int": "144",
+      "Def": "182",
+      "Spd": "111",
+      "Skill": "Increase damage dealt from earth skills by 15%."
+   },
+   "Goblimon": {
+      "Rank": "Rookie",
+      "HP": "1640",
+      "SP": "90",
+      "Atk": "179",
+      "Int": "90",
+      "Def": "169",
+      "Spd": "133",
+      "Skill": "Increase critical chance by 15%."
+   },
+   "Gomamon": {
+      "Rank": "Rookie",
+      "HP": "1800",
+      "SP": "113",
+      "Atk": "147",
+      "Int": "130",
+      "Def": "147",
+      "Spd": "123",
+      "Skill": "Increase damage dealt from water skills by 15%."
+   },
+   "Syakomon": {
+      "Rank": "Rookie",
+      "HP": "1410",
+      "SP": "159",
+      "Atk": "92",
+      "Int": "176",
+      "Def": "135",
+      "Spd": "122",
+      "Skill": "Increase damage dealt from water skills by 15%."
+   },
+   "Solarmon": {
+      "Rank": "Rookie",
+      "HP": "1670",
+      "SP": "142",
+      "Atk": "113",
+      "Int": "115",
+      "Def": "172",
+      "Spd": "116",
+      "Skill": "Full immunity to Sleep."
+   },
+   "Terriermon": {
+      "Rank": "Rookie",
+      "HP": "1130",
+      "SP": "147",
+      "Atk": "133",
+      "Int": "133",
+      "Def": "124",
+      "Spd": "176",
+      "Skill": "Increase accuracy by 15%."
+   },
+   "Tentomon": {
+      "Rank": "Rookie",
+      "HP": "1240",
+      "SP": "128",
+      "Atk": "140",
+      "Int": "147",
+      "Def": "174",
+      "Spd": "112",
+      "Skill": "Full immunity to Paralyze."
+   },
+   "ToyAgumon": {
+      "Rank": "Rookie",
+      "HP": "1750",
+      "SP": "141",
+      "Atk": "116",
+      "Int": "107",
+      "Def": "176",
+      "Spd": "110",
+      "Skill": "Increase DEF by 15%."
+   },
+   "Dorumon": {
+      "Rank": "Rookie",
+      "HP": "1610",
+      "SP": "109",
+      "Atk": "192",
+      "Int": "95",
+      "Def": "123",
+      "Spd": "160",
+      "Skill": "Increase critical chance by 15%."
+   },
+   "Hagurumon": {
+      "Rank": "Rookie",
+      "HP": "1730",
+      "SP": "145",
+      "Atk": "110",
+      "Int": "113",
+      "Def": "174",
+      "Spd": "110",
+      "Skill": "Increase damage dealt from thunder skills by 15%."
+   },
+   "Patamon": {
+      "Rank": "Rookie",
+      "HP": "1420",
+      "SP": "147",
+      "Atk": "128",
+      "Int": "141",
+      "Def": "123",
+      "Spd": "144",
+      "Skill": "Increase damage dealt from light skills by 15%."
+   },
+   "Huckmon": {
+      "Rank": "Rookie",
+      "HP": "1620",
+      "SP": "98",
+      "Atk": "182",
+      "Int": "102",
+      "Def": "167",
+      "Spd": "134",
+      "Skill": "When HP is below 10%, ATK is increased by 50%."
+   },
+   "Palmon": {
+      "Rank": "Rookie",
+      "HP": "1780",
+      "SP": "109",
+      "Atk": "157",
+      "Int": "129",
+      "Def": "144",
+      "Spd": "123",
+      "Skill": "When attacking, 10% chance to inflict Poison status effect."
+   },
+   "DemiDevimon": {
+      "Rank": "Rookie",
+      "HP": "1090",
+      "SP": "141",
+      "Atk": "138",
+      "Int": "138",
+      "Def": "125",
+      "Spd": "175",
+      "Skill": "Increase damage dealt from dark skills by 15%."
+   },
+   "Piyomon": {
+      "Rank": "Rookie",
+      "HP": "1370",
+      "SP": "147",
+      "Atk": "134",
+      "Int": "134",
+      "Def": "128",
+      "Spd": "145",
+      "Skill": "Full immunity to Death."
+   },
+   "Falcomon": {
+      "Rank": "Rookie",
+      "HP": "1180",
+      "SP": "147",
+      "Atk": "143",
+      "Int": "128",
+      "Def": "128",
+      "Spd": "177",
+      "Skill": "Increase damage dealt from wind skills by 15%."
+   },
+   "Veemon": {
+      "Rank": "Rookie",
+      "HP": "1630",
+      "SP": "118",
+      "Atk": "194",
+      "Int": "92",
+      "Def": "118",
+      "Spd": "160",
+      "Skill": "Increase ATK by 15%."
+   },
+   "Salamon": {
+      "Rank": "Rookie",
+      "HP": "930",
+      "SP": "182",
+      "Atk": "98",
+      "Int": "183",
+      "Def": "113",
+      "Spd": "156",
+      "Skill": "Increase HP restoration by 20%."
+   },
+   "Betamon": {
+      "Rank": "Rookie",
+      "HP": "1410",
+      "SP": "160",
+      "Atk": "100",
+      "Int": "177",
+      "Def": "125",
+      "Spd": "122",
+      "Skill": "Reduce the efficiency of received negative effects by 5%."
+   },
+   "Hawkmon": {
+      "Rank": "Rookie",
+      "HP": "1130",
+      "SP": "142",
+      "Atk": "148",
+      "Int": "132",
+      "Def": "128",
+      "Spd": "178",
+      "Skill": "Increase damage dealt from wind skills by 15%."
+   },
+   "Lalamon": {
+      "Rank": "Rookie",
+      "HP": "1740",
+      "SP": "118",
+      "Atk": "141",
+      "Int": "128",
+      "Def": "141",
+      "Spd": "123",
+      "Skill": "Full immunity to Poison."
+   },
+   "Lucemon": {
+      "Rank": "Rookie",
+      "HP": "1770",
+      "SP": "207",
+      "Atk": "98",
+      "Int": "272",
+      "Def": "153",
+      "Spd": "168",
+      "Skill": "Increase damage dealt from light skills by 15%."
+   },
+   "Renamon": {
+      "Rank": "Rookie",
+      "HP": "1470",
+      "SP": "147",
+      "Atk": "138",
+      "Int": "138",
+      "Def": "123",
+      "Spd": "147",
+      "Skill": "Increase INT by 15%."
+   },
+   "Lopmon": {
+      "Rank": "Rookie",
+      "HP": "1280",
+      "SP": "128",
+      "Atk": "162",
+      "Int": "162",
+      "Def": "112",
+      "Spd": "134",
+      "Skill": "Increase damage dealt from earth skills by 15%."
+   },
+   "Wormmon": {
+      "Rank": "Rookie",
+      "HP": "1250",
+      "SP": "125",
+      "Atk": "146",
+      "Int": "144",
+      "Def": "175",
+      "Spd": "110",
+      "Skill": "Increase damage dealt from plant skills by 15%."
+   },
+   "IceDevimon": {
+      "Rank": "Champion",
+      "HP": "1480",
+      "SP": "143",
+      "Atk": "199",
+      "Int": "177",
+      "Def": "133",
+      "Spd": "141",
+      "Skill": "Full immunity to Panic."
+   },
+   "Aquilamon": {
+      "Rank": "Champion",
+      "HP": "1280",
+      "SP": "162",
+      "Atk": "158",
+      "Int": "138",
+      "Def": "138",
+      "Spd": "207",
+      "Skill": "Increase damage dealt from wind skills by 15%."
+   },
+   "Ankylomon": {
+      "Rank": "Champion",
+      "HP": "1970",
+      "SP": "152",
+      "Atk": "133",
+      "Int": "123",
+      "Def": "197",
+      "Spd": "118",
+      "Skill": "Increase DEF by 15%."
+   },
+   "Ikkakumon": {
+      "Rank": "Champion",
+      "HP": "1970",
+      "SP": "128",
+      "Atk": "172",
+      "Int": "143",
+      "Def": "156",
+      "Spd": "134",
+      "Skill": "Increase damage dealt from water skills by 15%."
+   },
+   "Wizardmon": {
+      "Rank": "Champion",
+      "HP": "1080",
+      "SP": "202",
+      "Atk": "113",
+      "Int": "207",
+      "Def": "123",
+      "Spd": "177",
+      "Skill": "Increase INT by 15%."
+   },
+   "Woodmon": {
+      "Rank": "Champion",
+      "HP": "2120",
+      "SP": "118",
+      "Atk": "163",
+      "Int": "138",
+      "Def": "157",
+      "Spd": "132",
+      "Skill": "When attacking, 10% chance to inflict Panic status effect."
+   },
+   "Exveemon": {
+      "Rank": "Champion",
+      "HP": "1570",
+      "SP": "172",
+      "Atk": "153",
+      "Int": "143",
+      "Def": "143",
+      "Spd": "172",
+      "Skill": "Increase ATK by 15%."
+   },
+   "Angemon": {
+      "Rank": "Champion",
+      "HP": "1430",
+      "SP": "143",
+      "Atk": "187",
+      "Int": "187",
+      "Def": "133",
+      "Spd": "148",
+      "Skill": "Increase damage dealt from light skills by 15%."
+   },
+   "Ogremon": {
+      "Rank": "Champion",
+      "HP": "1820",
+      "SP": "103",
+      "Atk": "219",
+      "Int": "103",
+      "Def": "177",
+      "Spd": "146",
+      "Skill": "Increase critical chance by 15%."
+   },
+   "Guardromon": {
+      "Rank": "Champion",
+      "HP": "1480",
+      "SP": "133",
+      "Atk": "162",
+      "Int": "157",
+      "Def": "202",
+      "Spd": "188",
+      "Skill": "Increase damage dealt from thunder skills by 15%."
+   },
+   "Gaogamon": {
+      "Rank": "Champion",
+      "HP": "1180",
+      "SP": "162",
+      "Atk": "158",
+      "Int": "148",
+      "Def": "143",
+      "Spd": "202",
+      "Skill": "Increase evasion by 7%."
+   },
+   "Kabuterimon": {
+      "Rank": "Champion",
+      "HP": "1380",
+      "SP": "138",
+      "Atk": "162",
+      "Int": "170",
+      "Def": "192",
+      "Spd": "120",
+      "Skill": "Full immunity to Paralyze."
+   },
+   "KaratsukiNumemon": {
+      "Rank": "Champion",
+      "HP": "1920",
+      "SP": "157",
+      "Atk": "123",
+      "Int": "118",
+      "Def": "212",
+      "Spd": "118",
+      "Skill": "Increase the item drop rate from enemies."
+   },
+   "Gargomon": {
+      "Rank": "Champion",
+      "HP": "1570",
+      "SP": "157",
+      "Atk": "158",
+      "Int": "138",
+      "Def": "148",
+      "Spd": "162",
+      "Skill": "Increase accuracy by 15%."
+   },
+   "Garurumon": {
+      "Rank": "Champion",
+      "HP": "1330",
+      "SP": "162",
+      "Atk": "148",
+      "Int": "143",
+      "Def": "143",
+      "Spd": "202",
+      "Skill": "Increase SPD by 15%."
+   },
+   "BlackGarurumon": {
+      "Rank": "Champion",
+      "HP": "1330",
+      "SP": "162",
+      "Atk": "158",
+      "Int": "128",
+      "Def": "153",
+      "Spd": "197",
+      "Skill": "When attacking, 10% chance to inflict Stun status effect."
+   },
+   "Kyubimon": {
+      "Rank": "Champion",
+      "HP": "1130",
+      "SP": "202",
+      "Atk": "98",
+      "Int": "202",
+      "Def": "128",
+      "Spd": "187",
+      "Skill": "Increase INT by 15%."
+   },
+   "Growlmon": {
+      "Rank": "Champion",
+      "HP": "1770",
+      "SP": "118",
+      "Atk": "207",
+      "Int": "108",
+      "Def": "172",
+      "Spd": "158",
+      "Skill": "Increase ATK, DEF, INT and SPD by 5%."
+   },
+   "Chrysalimon": {
+      "Rank": "Champion",
+      "HP": "1870",
+      "SP": "128",
+      "Atk": "217",
+      "Int": "103",
+      "Def": "123",
+      "Spd": "172",
+      "Skill": "When attacking, 10% chance to inflict Death status effect."
+   },
+   "Greymon": {
+      "Rank": "Champion",
+      "HP": "1820",
+      "SP": "113",
+      "Atk": "212",
+      "Int": "103",
+      "Def": "177",
+      "Spd": "153",
+      "Skill": "Increase damage dealt from fire skills by 15%."
+   },
+   "BlackGreymon": {
+      "Rank": "Champion",
+      "HP": "1870",
+      "SP": "113",
+      "Atk": "217",
+      "Int": "98",
+      "Def": "177",
+      "Spd": "148",
+      "Skill": "Increase ATK by 15%."
+   },
+   "Clockmon": {
+      "Rank": "Champion",
+      "HP": "1570",
+      "SP": "177",
+      "Atk": "103",
+      "Int": "197",
+      "Def": "150",
+      "Spd": "136",
+      "Skill": "Increase damage dealt from thunder skills by 15%."
+   },
+   "Kuwagamon": {
+      "Rank": "Champion",
+      "HP": "1770",
+      "SP": "108",
+      "Atk": "217",
+      "Int": "98",
+      "Def": "172",
+      "Spd": "148",
+      "Skill": "Increase damage dealt from plant skills by 15%."
+   },
+   "Gekomon": {
+      "Rank": "Champion",
+      "HP": "1670",
+      "SP": "182",
+      "Atk": "107",
+      "Int": "192",
+      "Def": "138",
+      "Spd": "134",
+      "Skill": "When attacking, 10% chance to inflict Sleep status effect."
+   },
+   "Geremon": {
+      "Rank": "Champion",
+      "HP": "2020",
+      "SP": "153",
+      "Atk": "148",
+      "Int": "108",
+      "Def": "192",
+      "Spd": "117",
+      "Skill": "Success in escapes becomes easier."
+   },
+   "GoldNumemon": {
+      "Rank": "Champion",
+      "HP": "1670",
+      "SP": "183",
+      "Atk": "98",
+      "Int": "207",
+      "Def": "133",
+      "Spd": "132",
+      "Skill": "Increase YEN gain from battles."
+   },
+   "Cyclonemon": {
+      "Rank": "Champion",
+      "HP": "1430",
+      "SP": "133",
+      "Atk": "185",
+      "Int": "147",
+      "Def": "192",
+      "Spd": "120",
+      "Skill": "When HP is below 50%, ATK is increased by 20%."
+   },
+   "Sunflowmon": {
+      "Rank": "Champion",
+      "HP": "1720",
+      "SP": "172",
+      "Atk": "103",
+      "Int": "205",
+      "Def": "138",
+      "Spd": "130",
+      "Skill": "Full immunity to Poison."
+   },
+   "Seadramon": {
+      "Rank": "Champion",
+      "HP": "1620",
+      "SP": "177",
+      "Atk": "103",
+      "Int": "198",
+      "Def": "148",
+      "Spd": "132",
+      "Skill": "Reduce the efficiency of received negative effects by 5%."
+   },
+   "GeoGreymon": {
+      "Rank": "Champion",
+      "HP": "1920",
+      "SP": "133",
+      "Atk": "207",
+      "Int": "103",
+      "Def": "128",
+      "Spd": "177",
+      "Skill": "When HP is below 50%, ATK is increased by 20%."
+   },
+   "Sukamon": {
+      "Rank": "Champion",
+      "HP": "2070",
+      "SP": "152",
+      "Atk": "133",
+      "Int": "113",
+      "Def": "197",
+      "Spd": "118",
+      "Skill": "Success in escapes becomes easier."
+   },
+   "Starmon": {
+      "Rank": "Champion",
+      "HP": "1620",
+      "SP": "152",
+      "Atk": "153",
+      "Int": "140",
+      "Def": "158",
+      "Spd": "155",
+      "Skill": "Increase combo occurrence and continuation chance by 10%."
+   },
+   "Stingmon": {
+      "Rank": "Champion",
+      "HP": "1720",
+      "SP": "128",
+      "Atk": "207",
+      "Int": "113",
+      "Def": "118",
+      "Spd": "192",
+      "Skill": "Increase damage dealt from plant skills by 15%."
+   },
+   "Sorcermon": {
+      "Rank": "Champion",
+      "HP": "1570",
+      "SP": "182",
+      "Atk": "103",
+      "Int": "212",
+      "Def": "142",
+      "Spd": "134",
+      "Skill": "Full immunity to Panic."
+   },
+   "Tankmon": {
+      "Rank": "Champion",
+      "HP": "1430",
+      "SP": "133",
+      "Atk": "167",
+      "Int": "152",
+      "Def": "205",
+      "Spd": "120",
+      "Skill": "Increase DEF by 15%."
+   },
+   "Tyrannomon": {
+      "Rank": "Champion",
+      "HP": "1820",
+      "SP": "98",
+      "Atk": "212",
+      "Int": "98",
+      "Def": "184",
+      "Spd": "146",
+      "Skill": "When attacking, 10% chance to inflict Stun status effect."
+   },
+   "Gatomon": {
+      "Rank": "Champion",
+      "HP": "1030",
+      "SP": "207",
+      "Atk": "108",
+      "Int": "207",
+      "Def": "123",
+      "Spd": "182",
+      "Skill": "Increase HP restoration by 20%."
+   },
+   "Devimon": {
+      "Rank": "Champion",
+      "HP": "1480",
+      "SP": "143",
+      "Atk": "192",
+      "Int": "184",
+      "Def": "128",
+      "Spd": "146",
+      "Skill": "Increase damage dealt from dark skills by 15%."
+   },
+   "Togemon": {
+      "Rank": "Champion",
+      "HP": "1970",
+      "SP": "128",
+      "Atk": "162",
+      "Int": "142",
+      "Def": "167",
+      "Spd": "134",
+      "Skill": "When attacking, 10% chance to inflict Poison status effect."
+   },
+   "Dorugamon": {
+      "Rank": "Champion",
+      "HP": "1770",
+      "SP": "128",
+      "Atk": "202",
+      "Int": "108",
+      "Def": "133",
+      "Spd": "182",
+      "Skill": "Increase critical chance by 15%."
+   },
+   "Nanimon": {
+      "Rank": "Champion",
+      "HP": "1560",
+      "SP": "133",
+      "Atk": "162",
+      "Int": "152",
+      "Def": "197",
+      "Spd": "120",
+      "Skill": "Full immunity to Stun."
+   },
+   "Numemon": {
+      "Rank": "Champion",
+      "HP": "2020",
+      "SP": "153",
+      "Atk": "128",
+      "Int": "113",
+      "Def": "202",
+      "Spd": "122",
+      "Skill": "Increase the item drop rate from enemies."
+   },
+   "Birdramon": {
+      "Rank": "Champion",
+      "HP": "1380",
+      "SP": "167",
+      "Atk": "143",
+      "Int": "158",
+      "Def": "133",
+      "Spd": "192",
+      "Skill": "Full immunity to Death."
+   },
+   "Bakemon": {
+      "Rank": "Champion",
+      "HP": "980",
+      "SP": "212",
+      "Atk": "103",
+      "Int": "202",
+      "Def": "118",
+      "Spd": "187",
+      "Skill": "When attacking, 10% chance to inflict Panic status effect."
+   },
+   "Veedramon": {
+      "Rank": "Champion",
+      "HP": "1770",
+      "SP": "123",
+      "Atk": "202",
+      "Int": "103",
+      "Def": "172",
+      "Spd": "163",
+      "Skill": "Increase ATK by 15%."
+   },
+   "PlatinumSukamon": {
+      "Rank": "Champion",
+      "HP": "2020",
+      "SP": "152",
+      "Atk": "123",
+      "Int": "123",
+      "Def": "202",
+      "Spd": "118",
+      "Skill": "Increase EXP gain from battles."
+   },
+   "BlackGatomon": {
+      "Rank": "Champion",
+      "HP": "1080",
+      "SP": "197",
+      "Atk": "123",
+      "Int": "197",
+      "Def": "128",
+      "Spd": "177",
+      "Skill": "Increase damage dealt from dark skills by 15%."
+   },
+   "Vegimon": {
+      "Rank": "Champion",
+      "HP": "2020",
+      "SP": "123",
+      "Atk": "167",
+      "Int": "136",
+      "Def": "160",
+      "Spd": "132",
+      "Skill": "Increase damage dealt from plant skills by 15%."
+   },
+   "Peckmon": {
+      "Rank": "Champion",
+      "HP": "1230",
+      "SP": "167",
+      "Atk": "153",
+      "Int": "143",
+      "Def": "133",
+      "Spd": "212",
+      "Skill": "Increase damage dealt from wind skills by 15%."
+   },
+   "Meramon": {
+      "Rank": "Champion",
+      "HP": "1720",
+      "SP": "108",
+      "Atk": "202",
+      "Int": "118",
+      "Def": "172",
+      "Spd": "148",
+      "Skill": "Increase damage dealt from fire skills by 15%."
+   },
+   "Frigimon": {
+      "Rank": "Champion",
+      "HP": "2020",
+      "SP": "127",
+      "Atk": "157",
+      "Int": "148",
+      "Def": "152",
+      "Spd": "134",
+      "Skill": "Increase damage dealt from water skills by 15%."
+   },
+   "Leomon": {
+      "Rank": "Champion",
+      "HP": "1770",
+      "SP": "108",
+      "Atk": "207",
+      "Int": "110",
+      "Def": "182",
+      "Spd": "146",
+      "Skill": "Increase damage dealt from earth skills by 15%."
+   },
+   "Reppamon": {
+      "Rank": "Champion",
+      "HP": "1230",
+      "SP": "172",
+      "Atk": "143",
+      "Int": "148",
+      "Def": "148",
+      "Spd": "207",
+      "Skill": "Reduce the chance of receiving status effects by 50%."
+   },
+   "Waspmon": {
+      "Rank": "Champion",
+      "HP": "1770",
+      "SP": "118",
+      "Atk": "197",
+      "Int": "113",
+      "Def": "143",
+      "Spd": "172",
+      "Skill": "When attacking, 10% chance to inflict Paralyze status effect."
+   },
+   "MegaKabuterimon": {
+      "Rank": "Ultimate",
+      "HP": "2070",
+      "SP": "169",
+      "Atk": "138",
+      "Int": "153",
+      "Def": "227",
+      "Spd": "131",
+      "Skill": "Full immunity to Paralyze."
+   },
+   "Antylamon (Data)": {
+      "Rank": "Ultimate",
+      "HP": "1380",
+      "SP": "177",
+      "Atk": "173",
+      "Int": "163",
+      "Def": "158",
+      "Spd": "232",
+      "Skill": "Restore 5% of maximum HP every turn."
+   },
+   "Andromon": {
+      "Rank": "Ultimate",
+      "HP": "1530",
+      "SP": "143",
+      "Atk": "187",
+      "Int": "187",
+      "Def": "221",
+      "Spd": "134",
+      "Skill": "Increase damage dealt from thunder skills by 15%."
+   },
+   "Meteormon": {
+      "Rank": "Ultimate",
+      "HP": "1580",
+      "SP": "153",
+      "Atk": "177",
+      "Int": "182",
+      "Def": "227",
+      "Spd": "128",
+      "Skill": "Increase damage dealt from earth skills by 15%."
+   },
+   "Infermon": {
+      "Rank": "Ultimate",
+      "HP": "1920",
+      "SP": "143",
+      "Atk": "262",
+      "Int": "113",
+      "Def": "133",
+      "Spd": "212",
+      "Skill": "When attacking, 10% chance to inflict Death status effect."
+   },
+   "Myotismon": {
+      "Rank": "Ultimate",
+      "HP": "1780",
+      "SP": "162",
+      "Atk": "207",
+      "Int": "207",
+      "Def": "143",
+      "Spd": "159",
+      "Skill": "Increase damage dealt from dark skills by 15%."
+   },
+   "AeroVeedramon": {
+      "Rank": "Ultimate",
+      "HP": "2020",
+      "SP": "138",
+      "Atk": "227",
+      "Int": "133",
+      "Def": "143",
+      "Spd": "212",
+      "Skill": "Always get a head-start at the beginning of battle."
+   },
+   "Etemon": {
+      "Rank": "Ultimate",
+      "HP": "1670",
+      "SP": "187",
+      "Atk": "153",
+      "Int": "178",
+      "Def": "168",
+      "Spd": "187",
+      "Skill": "Reduce the received physical damage by 15%."
+   },
+   "Angewomon": {
+      "Rank": "Ultimate",
+      "HP": "1280",
+      "SP": "227",
+      "Atk": "108",
+      "Int": "252",
+      "Def": "138",
+      "Spd": "202",
+      "Skill": "Increase HP restoration by 20%."
+   },
+   "Okuwamon": {
+      "Rank": "Ultimate",
+      "HP": "1920",
+      "SP": "113",
+      "Atk": "222",
+      "Int": "113",
+      "Def": "217",
+      "Spd": "168",
+      "Skill": "Increase damage dealt from plant skills by 15%."
+   },
+   "Garudamon": {
+      "Rank": "Ultimate",
+      "HP": "1480",
+      "SP": "177",
+      "Atk": "173",
+      "Int": "178",
+      "Def": "158",
+      "Spd": "207",
+      "Skill": "Full immunity to Death."
+   },
+   "Gigadramon": {
+      "Rank": "Ultimate",
+      "HP": "1730",
+      "SP": "143",
+      "Atk": "191",
+      "Int": "167",
+      "Def": "212",
+      "Spd": "139",
+      "Skill": "Increase DEF by 15%."
+   },
+   "CannonBeemon": {
+      "Rank": "Ultimate",
+      "HP": "1430",
+      "SP": "177",
+      "Atk": "178",
+      "Int": "148",
+      "Def": "188",
+      "Spd": "207",
+      "Skill": "When attacking, 10% chance to inflict Paralyze status effect."
+   },
+   "Grapleomon": {
+      "Rank": "Ultimate",
+      "HP": "2170",
+      "SP": "133",
+      "Atk": "227",
+      "Int": "118",
+      "Def": "143",
+      "Spd": "202",
+      "Skill": "Increase SPD by 15%."
+   },
+   "Cyberdramon": {
+      "Rank": "Ultimate",
+      "HP": "2070",
+      "SP": "120",
+      "Atk": "237",
+      "Int": "118",
+      "Def": "202",
+      "Spd": "171",
+      "Skill": "Increase combo occurrence and continuation chance by 10%."
+   },
+   "Shakkoumon": {
+      "Rank": "Ultimate",
+      "HP": "2170",
+      "SP": "189",
+      "Atk": "128",
+      "Int": "183",
+      "Def": "222",
+      "Spd": "131",
+      "Skill": "Increase damage dealt from light skills by 15%."
+   },
+   "Cherrymon": {
+      "Rank": "Ultimate",
+      "HP": "2270",
+      "SP": "152",
+      "Atk": "167",
+      "Int": "163",
+      "Def": "187",
+      "Spd": "144",
+      "Skill": "When attacking, 10% chance to inflict Panic status effect."
+   },
+   "Silphymon": {
+      "Rank": "Ultimate",
+      "HP": "1480",
+      "SP": "192",
+      "Atk": "168",
+      "Int": "173",
+      "Def": "168",
+      "Spd": "222",
+      "Skill": "Increase damage dealt from wind skills by 15%."
+   },
+   "SuperStarmon": {
+      "Rank": "Ultimate",
+      "HP": "1720",
+      "SP": "182",
+      "Atk": "171",
+      "Int": "158",
+      "Def": "183",
+      "Spd": "174",
+      "Skill": "Increase combo occurrence and continuation chance by 10%."
+   },
+   "SkullGreymon": {
+      "Rank": "Ultimate",
+      "HP": "1820",
+      "SP": "118",
+      "Atk": "267",
+      "Int": "108",
+      "Def": "212",
+      "Spd": "168",
+      "Skill": "Increase ATK by 15%."
+   },
+   "Zudomon": {
+      "Rank": "Ultimate",
+      "HP": "2270",
+      "SP": "128",
+      "Atk": "204",
+      "Int": "153",
+      "Def": "182",
+      "Spd": "146",
+      "Skill": "Increase damage dealt from water skills by 15%."
+   },
+   "Taomon": {
+      "Rank": "Ultimate",
+      "HP": "1380",
+      "SP": "212",
+      "Atk": "108",
+      "Int": "237",
+      "Def": "148",
+      "Spd": "197",
+      "Skill": "Increase INT by 15%."
+   },
+   "Chirinmon": {
+      "Rank": "Ultimate",
+      "HP": "1380",
+      "SP": "187",
+      "Atk": "173",
+      "Int": "173",
+      "Def": "168",
+      "Spd": "232",
+      "Skill": "Reduce the chance of receiving status effects by 50%."
+   },
+   "Digitamamon": {
+      "Rank": "Ultimate",
+      "HP": "2020",
+      "SP": "133",
+      "Atk": "182",
+      "Int": "160",
+      "Def": "202",
+      "Spd": "146",
+      "Skill": "Increase critical chance by 15%."
+   },
+   "SkullMeramon": {
+      "Rank": "Ultimate",
+      "HP": "2120",
+      "SP": "118",
+      "Atk": "247",
+      "Int": "109",
+      "Def": "192",
+      "Spd": "162",
+      "Skill": "Full immunity to Stun."
+   },
+   "ShogunGekomon": {
+      "Rank": "Ultimate",
+      "HP": "2620",
+      "SP": "140",
+      "Atk": "167",
+      "Int": "148",
+      "Def": "167",
+      "Spd": "141",
+      "Skill": "When attacking, 10% chance to inflict Sleep status effect."
+   },
+   "DoruGreymon": {
+      "Rank": "Ultimate",
+      "HP": "2070",
+      "SP": "123",
+      "Atk": "225",
+      "Int": "123",
+      "Def": "212",
+      "Spd": "165",
+      "Skill": "Increase critical chance by 15%."
+   },
+   "Knightmon": {
+      "Rank": "Ultimate",
+      "HP": "1630",
+      "SP": "158",
+      "Atk": "189",
+      "Int": "177",
+      "Def": "222",
+      "Spd": "131",
+      "Skill": "Increase DEF by 15%."
+   },
+   "Datamon": {
+      "Rank": "Ultimate",
+      "HP": "1720",
+      "SP": "192",
+      "Atk": "113",
+      "Int": "239",
+      "Def": "163",
+      "Spd": "146",
+      "Skill": "Increase scan value by 10%."
+   },
+   "Paildramon": {
+      "Rank": "Ultimate",
+      "HP": "1820",
+      "SP": "187",
+      "Atk": "188",
+      "Int": "158",
+      "Def": "173",
+      "Spd": "182",
+      "Skill": "Increase damage dealt and received by 20%."
+   },
+   "IceLeomon": {
+      "Rank": "Ultimate",
+      "HP": "1820",
+      "SP": "182",
+      "Atk": "173",
+      "Int": "160",
+      "Def": "163",
+      "Spd": "180",
+      "Skill": "Increase damage dealt from earth skills by 15%."
+   },
+   "Pumpkinmon": {
+      "Rank": "Ultimate",
+      "HP": "2120",
+      "SP": "141",
+      "Atk": "177",
+      "Int": "168",
+      "Def": "162",
+      "Spd": "155",
+      "Skill": "When attacking, 10% chance to inflict Panic status effect."
+   },
+   "Piccolomon": {
+      "Rank": "Ultimate",
+      "HP": "1430",
+      "SP": "177",
+      "Atk": "153",
+      "Int": "183",
+      "Def": "153",
+      "Spd": "217",
+      "Skill": "Increase the efficiency of given positive effects by 5%."
+   },
+   "BlackKingNumemon": {
+      "Rank": "Ultimate",
+      "HP": "2220",
+      "SP": "167",
+      "Atk": "133",
+      "Int": "133",
+      "Def": "232",
+      "Spd": "128",
+      "Skill": "Increase the item drop rate from enemies."
+   },
+   "BlueMeramon": {
+      "Rank": "Ultimate",
+      "HP": "1630",
+      "SP": "158",
+      "Atk": "207",
+      "Int": "192",
+      "Def": "138",
+      "Spd": "168",
+      "Skill": "Increase damage dealt from fire skills by 15%."
+   },
+   "Vademon": {
+      "Rank": "Ultimate",
+      "HP": "1670",
+      "SP": "224",
+      "Atk": "103",
+      "Int": "237",
+      "Def": "143",
+      "Spd": "141",
+      "Skill": "Full immunity to Dot."
+   },
+   "Whamon": {
+      "Rank": "Ultimate",
+      "HP": "2320",
+      "SP": "137",
+      "Atk": "177",
+      "Int": "173",
+      "Def": "177",
+      "Spd": "144",
+      "Skill": "Restore 5% of maximum SP every turn."
+   },
+   "MagnaAngemon": {
+      "Rank": "Ultimate",
+      "HP": "1720",
+      "SP": "202",
+      "Atk": "137",
+      "Int": "227",
+      "Def": "168",
+      "Spd": "149",
+      "Skill": "Increase damage dealt from light skills by 15%."
+   },
+   "MachGaogamon": {
+      "Rank": "Ultimate",
+      "HP": "2070",
+      "SP": "133",
+      "Atk": "222",
+      "Int": "128",
+      "Def": "133",
+      "Spd": "217",
+      "Skill": "Increase evasion by 7%."
+   },
+   "Mamemon": {
+      "Rank": "Ultimate",
+      "HP": "2120",
+      "SP": "167",
+      "Atk": "155",
+      "Int": "128",
+      "Def": "217",
+      "Spd": "136",
+      "Skill": "Full immunity to Stun."
+   },
+   "MegaSeadramon": {
+      "Rank": "Ultimate",
+      "HP": "1870",
+      "SP": "197",
+      "Atk": "125",
+      "Int": "222",
+      "Def": "163",
+      "Spd": "146",
+      "Skill": "Reduce the efficiency of received negative effects by 5%."
+   },
+   "Megadramon": {
+      "Rank": "Ultimate",
+      "HP": "2020",
+      "SP": "118",
+      "Atk": "222",
+      "Int": "108",
+      "Def": "207",
+      "Spd": "168",
+      "Skill": "Increase accuracy by 15%."
+   },
+   "WarGrowlmon": {
+      "Rank": "Ultimate",
+      "HP": "2020",
+      "SP": "123",
+      "Atk": "242",
+      "Int": "126",
+      "Def": "197",
+      "Spd": "165",
+      "Skill": "Increase ATK, DEF, INT and SPD by 5%."
+   },
+   "MetalGreymon": {
+      "Rank": "Ultimate",
+      "HP": "2120",
+      "SP": "123",
+      "Atk": "232",
+      "Int": "119",
+      "Def": "207",
+      "Spd": "162",
+      "Skill": "Increase damage dealt from fire skills by 15%."
+   },
+   "MetalGreymon (Virus)": {
+      "Rank": "Ultimate",
+      "HP": "2260",
+      "SP": "123",
+      "Atk": "237",
+      "Int": "108",
+      "Def": "202",
+      "Spd": "159",
+      "Skill": "Increase ATK by 15%."
+   },
+   "MetalTyrannomon": {
+      "Rank": "Ultimate",
+      "HP": "1580",
+      "SP": "153",
+      "Atk": "184",
+      "Int": "172",
+      "Def": "242",
+      "Spd": "131",
+      "Skill": "When attacking, 10% chance to inflict Stun status effect."
+   },
+   "MetalMamemon": {
+      "Rank": "Ultimate",
+      "HP": "1480",
+      "SP": "148",
+      "Atk": "177",
+      "Int": "182",
+      "Def": "217",
+      "Spd": "142",
+      "Skill": "Full immunity to Sleep."
+   },
+   "Monzaemon": {
+      "Rank": "Ultimate",
+      "HP": "2220",
+      "SP": "137",
+      "Atk": "182",
+      "Int": "168",
+      "Def": "172",
+      "Spd": "144",
+      "Skill": "Increase damage dealt from neutral skills by 15%."
+   },
+   "Yatagaramon": {
+      "Rank": "Ultimate",
+      "HP": "1330",
+      "SP": "182",
+      "Atk": "168",
+      "Int": "168",
+      "Def": "153",
+      "Spd": "237",
+      "Skill": "Increase damage dealt from wind skills by 15%."
+   },
+   "RizeGreymon": {
+      "Rank": "Ultimate",
+      "HP": "2120",
+      "SP": "138",
+      "Atk": "242",
+      "Int": "108",
+      "Def": "153",
+      "Spd": "202",
+      "Skill": "When HP is below 50%, ATK is increased by 20%."
+   },
+   "Lilamon": {
+      "Rank": "Ultimate",
+      "HP": "1820",
+      "SP": "207",
+      "Atk": "108",
+      "Int": "232",
+      "Def": "153",
+      "Spd": "158",
+      "Skill": "Full immunity to Poison."
+   },
+   "Rapidmon": {
+      "Rank": "Ultimate",
+      "HP": "1720",
+      "SP": "167",
+      "Atk": "163",
+      "Int": "168",
+      "Def": "158",
+      "Spd": "197",
+      "Skill": "Increase accuracy by 15%."
+   },
+   "Lillymon": {
+      "Rank": "Ultimate",
+      "HP": "1280",
+      "SP": "217",
+      "Atk": "113",
+      "Int": "227",
+      "Def": "138",
+      "Spd": "217",
+      "Skill": "When attacking, 10% chance to inflict Poison status effect."
+   },
+   "Lucemon CM": {
+      "Rank": "Ultimate",
+      "HP": "1880",
+      "SP": "188",
+      "Atk": "222",
+      "Int": "262",
+      "Def": "158",
+      "Spd": "188",
+      "Skill": "Increase damage dealt from all skills by 5%."
+   },
+   "LadyDevimon": {
+      "Rank": "Ultimate",
+      "HP": "1280",
+      "SP": "227",
+      "Atk": "138",
+      "Int": "222",
+      "Def": "138",
+      "Spd": "202",
+      "Skill": "Increase damage dealt from dark skills by 15%."
+   },
+   "WereGarurumon": {
+      "Rank": "Ultimate",
+      "HP": "2020",
+      "SP": "133",
+      "Atk": "242",
+      "Int": "118",
+      "Def": "133",
+      "Spd": "212",
+      "Skill": "Increase SPD by 15%."
+   },
+   "BlackWereGarurumon": {
+      "Rank": "Ultimate",
+      "HP": "2070",
+      "SP": "123",
+      "Atk": "247",
+      "Int": "108",
+      "Def": "146",
+      "Spd": "207",
+      "Skill": "When attacking, 10% chance to inflict Stun status effect."
+   },
+   "Wisemon": {
+      "Rank": "Ultimate",
+      "HP": "1180",
+      "SP": "232",
+      "Atk": "108",
+      "Int": "262",
+      "Def": "128",
+      "Spd": "192",
+      "Skill": "When attacking, 10% chance to inflict Dot status effect."
+   },
+   "Alphamon": {
+      "Rank": "Mega",
+      "HP": "1880",
+      "SP": "177",
+      "Atk": "212",
+      "Int": "212",
+      "Def": "247",
+      "Spd": "169",
+      "Skill": "Increase damage dealt to Royal Knights by 20%."
+   },
+   "UlforceVeedramon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "173",
+      "Atk": "252",
+      "Int": "143",
+      "Def": "153",
+      "Spd": "257",
+      "Skill": "Always get a head-start at the beginning of battle."
+   },
+   "Ebemon": {
+      "Rank": "Mega",
+      "HP": "1770",
+      "SP": "237",
+      "Atk": "113",
+      "Int": "262",
+      "Def": "163",
+      "Spd": "173",
+      "Skill": "Full immunity to Dot."
+   },
+   "Imperialdramon DM": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "197",
+      "Atk": "188",
+      "Int": "188",
+      "Def": "188",
+      "Spd": "202",
+      "Skill": "Increase DEF and INT by 10%."
+   },
+   "Imperialdramon FM": {
+      "Rank": "Mega",
+      "HP": "2370",
+      "SP": "158",
+      "Atk": "262",
+      "Int": "153",
+      "Def": "168",
+      "Spd": "212",
+      "Skill": "Increase ATK and SPD by 10%."
+   },
+   "Vikemon": {
+      "Rank": "Mega",
+      "HP": "2420",
+      "SP": "149",
+      "Atk": "212",
+      "Int": "178",
+      "Def": "197",
+      "Spd": "177",
+      "Skill": "Increase damage dealt from water skills by 15%."
+   },
+   "VenomMyotismon": {
+      "Rank": "Mega",
+      "HP": "2030",
+      "SP": "169",
+      "Atk": "252",
+      "Int": "207",
+      "Def": "148",
+      "Spd": "187",
+      "Skill": "Increase damage dealt from dark skills by 15%."
+   },
+   "Wargreymon": {
+      "Rank": "Mega",
+      "HP": "2220",
+      "SP": "137",
+      "Atk": "257",
+      "Int": "138",
+      "Def": "222",
+      "Spd": "189",
+      "Skill": "Increase damage dealt from fire skills by 15%."
+   },
+   "Examon": {
+      "Rank": "Mega",
+      "HP": "2170",
+      "SP": "202",
+      "Atk": "223",
+      "Int": "178",
+      "Def": "178",
+      "Spd": "207",
+      "Skill": "Increase accuracy and evasion by 5%, and critical chance by 10%."
+   },
+   "Ophanimon": {
+      "Rank": "Mega",
+      "HP": "1230",
+      "SP": "247",
+      "Atk": "143",
+      "Int": "257",
+      "Def": "208",
+      "Spd": "212",
+      "Skill": "Increase HP restoration by 20%."
+   },
+   "Samudramon": {
+      "Rank": "Mega",
+      "HP": "2220",
+      "SP": "143",
+      "Atk": "267",
+      "Int": "133",
+      "Def": "173",
+      "Spd": "217",
+      "Skill": "Increase damage dealt and received by 20%."
+   },
+   "ChaosGallantmon": {
+      "Rank": "Mega",
+      "HP": "1830",
+      "SP": "188",
+      "Atk": "237",
+      "Int": "222",
+      "Def": "183",
+      "Spd": "193",
+      "Skill": "Increase ATK & INT by 10%."
+   },
+   "Gankoomon": {
+      "Rank": "Mega",
+      "HP": "2670",
+      "SP": "129",
+      "Atk": "252",
+      "Int": "148",
+      "Def": "222",
+      "Spd": "187",
+      "Skill": "When HP is above 50%, ATKs that could kill you will leave you with 1 HP instead."
+   },
+   "Kuzuhamon": {
+      "Rank": "Mega",
+      "HP": "1920",
+      "SP": "222",
+      "Atk": "123",
+      "Int": "257",
+      "Def": "178",
+      "Spd": "183",
+      "Skill": "Full immunity to Panic."
+   },
+   "Grankuwagamon": {
+      "Rank": "Mega",
+      "HP": "2120",
+      "SP": "127",
+      "Atk": "242",
+      "Int": "128",
+      "Def": "237",
+      "Spd": "189",
+      "Skill": "Increase damage dealt from plant skills by 15%."
+   },
+   "GranLocomon": {
+      "Rank": "Mega",
+      "HP": "1630",
+      "SP": "163",
+      "Atk": "198",
+      "Int": "187",
+      "Def": "277",
+      "Spd": "167",
+      "Skill": "Increase DEF by 15%."
+   },
+   "Craniumon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "197",
+      "Atk": "168",
+      "Int": "178",
+      "Def": "272",
+      "Spd": "163",
+      "Skill": "Reduce received damage by 10%."
+   },
+   "Cherubimon (Good)": {
+      "Rank": "Mega",
+      "HP": "1680",
+      "SP": "252",
+      "Atk": "133",
+      "Int": "272",
+      "Def": "148",
+      "Spd": "217",
+      "Skill": "Restore 5% of maximum HP every turn."
+   },
+   "SaberLeomon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "143",
+      "Atk": "292",
+      "Int": "123",
+      "Def": "148",
+      "Spd": "222",
+      "Skill": "Increase damage dealt from earth skills by 15%."
+   },
+   "Sakuyamon": {
+      "Rank": "Mega",
+      "HP": "1380",
+      "SP": "242",
+      "Atk": "133",
+      "Int": "252",
+      "Def": "158",
+      "Spd": "232",
+      "Skill": "Increase INT by 15%."
+   },
+   "Jesmon": {
+      "Rank": "Mega",
+      "HP": "2070",
+      "SP": "163",
+      "Atk": "262",
+      "Int": "153",
+      "Def": "193",
+      "Spd": "227",
+      "Skill": "When HP is below 25%, SPD and evasion are increased by 25%."
+   },
+   "ShineGreymon": {
+      "Rank": "Mega",
+      "HP": "2470",
+      "SP": "158",
+      "Atk": "267",
+      "Int": "123",
+      "Def": "153",
+      "Spd": "217",
+      "Skill": "When HP is below 50%, ATK is increased by 20%."
+   },
+   "Justimon": {
+      "Rank": "Mega",
+      "HP": "2120",
+      "SP": "138",
+      "Atk": "257",
+      "Int": "138",
+      "Def": "217",
+      "Spd": "193",
+      "Skill": "Increase combo occurrence and continuation chance by 10%."
+   },
+   "Kentaurosmon": {
+      "Rank": "Mega",
+      "HP": "1580",
+      "SP": "207",
+      "Atk": "188",
+      "Int": "203",
+      "Def": "203",
+      "Spd": "247",
+      "Skill": "Reduce the chance of receiving status effects by 50%."
+   },
+   "Seraphimon": {
+      "Rank": "Mega",
+      "HP": "2020",
+      "SP": "221",
+      "Atk": "133",
+      "Int": "262",
+      "Def": "193",
+      "Spd": "179",
+      "Skill": "Increase damage dealt from light skills by 15%."
+   },
+   "MegaGargomon": {
+      "Rank": "Mega",
+      "HP": "1970",
+      "SP": "186",
+      "Atk": "198",
+      "Int": "168",
+      "Def": "188",
+      "Spd": "198",
+      "Skill": "Increase accuracy by 15%."
+   },
+   "TigerVespamon": {
+      "Rank": "Mega",
+      "HP": "2220",
+      "SP": "148",
+      "Atk": "257",
+      "Int": "138",
+      "Def": "158",
+      "Spd": "232",
+      "Skill": "When attacking, 10% chance to inflict Paralyze status effect."
+   },
+   "Titamon": {
+      "Rank": "Mega",
+      "HP": "2570",
+      "SP": "143",
+      "Atk": "237",
+      "Int": "163",
+      "Def": "182",
+      "Spd": "173",
+      "Skill": "Increase critical chance by 15%."
+   },
+   "Dianamon": {
+      "Rank": "Mega",
+      "HP": "1180",
+      "SP": "242",
+      "Atk": "128",
+      "Int": "262",
+      "Def": "198",
+      "Spd": "242",
+      "Skill": "Increase damage dealt from water and light skills by 10%."
+   },
+   "Diaboromon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "158",
+      "Atk": "307",
+      "Int": "118",
+      "Def": "148",
+      "Spd": "232",
+      "Skill": "When attacking, 10% chance to inflict Death status effect."
+   },
+   "Daemon": {
+      "Rank": "Mega",
+      "HP": "1930",
+      "SP": "182",
+      "Atk": "242",
+      "Int": "242",
+      "Def": "158",
+      "Spd": "189",
+      "Skill": "When HP is below 25%, ATK and INT are increased by 25%."
+   },
+   "Gallantmon": {
+      "Rank": "Mega",
+      "HP": "2020",
+      "SP": "202",
+      "Atk": "198",
+      "Int": "198",
+      "Def": "203",
+      "Spd": "202",
+      "Skill": "Increase ATK, DEF, INT and SPD by 5%."
+   },
+   "Dynasmon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "158",
+      "Atk": "277",
+      "Int": "133",
+      "Def": "173",
+      "Spd": "237",
+      "Skill": "Increase damage dealt from fire and wind skills by 10%."
+   },
+   "Leopardmon": {
+      "Rank": "Mega",
+      "HP": "1380",
+      "SP": "252",
+      "Atk": "163",
+      "Int": "247",
+      "Def": "158",
+      "Spd": "247",
+      "Skill": "Decrease skill SP consumption by 20%."
+   },
+   "Leopardmon LM": {
+      "Rank": "Mega",
+      "HP": "1730",
+      "SP": "207",
+      "Atk": "208",
+      "Int": "188",
+      "Def": "178",
+      "Spd": "282",
+      "Skill": "Increase evasion and critical chance by 5%, and SPD by 10%."
+   },
+   "HiAndromon": {
+      "Rank": "Mega",
+      "HP": "1680",
+      "SP": "163",
+      "Atk": "207",
+      "Int": "192",
+      "Def": "242",
+      "Spd": "163",
+      "Skill": "Increase damage dealt from thunder skills by 15%."
+   },
+   "Barbamon": {
+      "Rank": "Mega",
+      "HP": "1870",
+      "SP": "243",
+      "Atk": "123",
+      "Int": "297",
+      "Def": "178",
+      "Spd": "177",
+      "Skill": "Restoration amount from HP & SP absorption is increased by 20%."
+   },
+   "BanchoLeomon": {
+      "Rank": "Mega",
+      "HP": "2220",
+      "SP": "123",
+      "Atk": "257",
+      "Int": "119",
+      "Def": "247",
+      "Spd": "187",
+      "Skill": "Increase damage dealt and received by 20%."
+   },
+   "Piedmon": {
+      "Rank": "Mega",
+      "HP": "1280",
+      "SP": "242",
+      "Atk": "168",
+      "Int": "247",
+      "Def": "148",
+      "Spd": "222",
+      "Skill": "When attacking, 10% chance to inflict Dot status effect."
+   },
+   "Puppetmon": {
+      "Rank": "Mega",
+      "HP": "1630",
+      "SP": "163",
+      "Atk": "217",
+      "Int": "202",
+      "Def": "227",
+      "Spd": "163",
+      "Skill": "When attacking, 10% chance to inflict Panic status effect."
+   },
+   "PlatinumNumemon": {
+      "Rank": "Mega",
+      "HP": "2470",
+      "SP": "186",
+      "Atk": "138",
+      "Int": "153",
+      "Def": "242",
+      "Spd": "159",
+      "Skill": "Increase EXP gain from battles."
+   },
+   "BlackWargreymon": {
+      "Rank": "Mega",
+      "HP": "2320",
+      "SP": "132",
+      "Atk": "247",
+      "Int": "128",
+      "Def": "237",
+      "Spd": "189",
+      "Skill": "Increase ATK by 15%."
+   },
+   "PrinceMamemon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "191",
+      "Atk": "148",
+      "Int": "153",
+      "Def": "237",
+      "Spd": "169",
+      "Skill": "Increase YEN gain from battles."
+   },
+   "Plesiomon": {
+      "Rank": "Mega",
+      "HP": "2220",
+      "SP": "212",
+      "Atk": "113",
+      "Int": "252",
+      "Def": "163",
+      "Spd": "173",
+      "Skill": "When attacking, 10% chance to inflict Sleep status effect."
+   },
+   "HerculesKabuterimon": {
+      "Rank": "Mega",
+      "HP": "2320",
+      "SP": "182",
+      "Atk": "158",
+      "Int": "168",
+      "Def": "232",
+      "Spd": "163",
+      "Skill": "Full immunity to Paralyze."
+   },
+   "Beelzamon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "158",
+      "Atk": "292",
+      "Int": "138",
+      "Def": "163",
+      "Spd": "227",
+      "Skill": "Every turn, maximum HP is decreased by 5%, and attack is increased by 5%."
+   },
+   "Belphemon SM": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "237",
+      "Atk": "128",
+      "Int": "267",
+      "Def": "163",
+      "Spd": "183",
+      "Skill": "Full immunity to Sleep. Also when attacking, 30% chance to inflict Sleep status effect."
+   },
+   "Hououmon": {
+      "Rank": "Mega",
+      "HP": "1780",
+      "SP": "237",
+      "Atk": "123",
+      "Int": "257",
+      "Def": "143",
+      "Spd": "217",
+      "Skill": "Full immunity to Death."
+   },
+   "Magnadramon": {
+      "Rank": "Mega",
+      "HP": "2420",
+      "SP": "227",
+      "Atk": "128",
+      "Int": "247",
+      "Def": "173",
+      "Spd": "173",
+      "Skill": "Increase the efficiency of given positive effects by 5%."
+   },
+   "Boltmon": {
+      "Rank": "Mega",
+      "HP": "2170",
+      "SP": "122",
+      "Atk": "262",
+      "Int": "123",
+      "Def": "222",
+      "Spd": "189",
+      "Skill": "Full immunity to Stun."
+   },
+   "Mastemon": {
+      "Rank": "Mega",
+      "HP": "1830",
+      "SP": "193",
+      "Atk": "232",
+      "Int": "232",
+      "Def": "178",
+      "Spd": "198",
+      "Skill": "Increase damage dealt from light and dark skills by 10%, and increase HP restoration by 10%."
+   },
+   "MarineAngemon": {
+      "Rank": "Mega",
+      "HP": "1580",
+      "SP": "262",
+      "Atk": "103",
+      "Int": "267",
+      "Def": "133",
+      "Spd": "212",
+      "Skill": "Restore 5% of maximum SP every turn."
+   },
+   "Minervamon": {
+      "Rank": "Mega",
+      "HP": "2170",
+      "SP": "158",
+      "Atk": "272",
+      "Int": "158",
+      "Def": "158",
+      "Spd": "227",
+      "Skill": "Increase damage dealt from neutral skills by 15%."
+   },
+   "MirageGaogamon": {
+      "Rank": "Mega",
+      "HP": "2070",
+      "SP": "158",
+      "Atk": "247",
+      "Int": "146",
+      "Def": "158",
+      "Spd": "237",
+      "Skill": "Increase evasion by 7%."
+   },
+   "Machinedramon": {
+      "Rank": "Mega",
+      "HP": "1730",
+      "SP": "163",
+      "Atk": "227",
+      "Int": "182",
+      "Def": "247",
+      "Spd": "163",
+      "Skill": "Full immunity to Sleep."
+   },
+   "MetalEtemon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "182",
+      "Atk": "178",
+      "Int": "133",
+      "Def": "252",
+      "Spd": "163",
+      "Skill": "Reduce the received physical damage by 15%."
+   },
+   "MetalGarurumon": {
+      "Rank": "Mega",
+      "HP": "1580",
+      "SP": "197",
+      "Atk": "203",
+      "Int": "178",
+      "Def": "178",
+      "Spd": "242",
+      "Skill": "Increase SPD by 15%."
+   },
+   "BlackMetalGarurumon": {
+      "Rank": "Mega",
+      "HP": "1680",
+      "SP": "177",
+      "Atk": "217",
+      "Int": "187",
+      "Def": "237",
+      "Spd": "169",
+      "Skill": "When attacking, 10% chance to inflict Stun status effect."
+   },
+   "MetalSeadramon": {
+      "Rank": "Mega",
+      "HP": "1970",
+      "SP": "207",
+      "Atk": "138",
+      "Int": "232",
+      "Def": "188",
+      "Spd": "173",
+      "Skill": "Reduce the efficiency of received negative effects by 5%."
+   },
+   "RustTyranomon": {
+      "Rank": "Mega",
+      "HP": "2270",
+      "SP": "122",
+      "Atk": "282",
+      "Int": "113",
+      "Def": "222",
+      "Spd": "189",
+      "Skill": "When attacking, 10% chance to inflict Stun status effect."
+   },
+   "Leviamon": {
+      "Rank": "Mega",
+      "HP": "2370",
+      "SP": "164",
+      "Atk": "222",
+      "Int": "193",
+      "Def": "212",
+      "Spd": "177",
+      "Skill": "When the target is Ultimate level or above, damage is increased by 15%."
+   },
+   "Lilithmon": {
+      "Rank": "Mega",
+      "HP": "1330",
+      "SP": "267",
+      "Atk": "138",
+      "Int": "287",
+      "Def": "148",
+      "Spd": "232",
+      "Skill": "When a physical attack is received, 10% of the damage is converted to SP."
+   },
+   "Ravemon": {
+      "Rank": "Mega",
+      "HP": "1480",
+      "SP": "197",
+      "Atk": "188",
+      "Int": "188",
+      "Def": "168",
+      "Spd": "267",
+      "Skill": "Increase damage dealt from wind skills by 15%."
+   },
+   "Crusadermon": {
+      "Rank": "Mega",
+      "HP": "1680",
+      "SP": "207",
+      "Atk": "193",
+      "Int": "193",
+      "Def": "188",
+      "Spd": "257",
+      "Skill": "When you have the attribute advantage, increase damage dealt by 15%."
+   },
+   "Rosemon": {
+      "Rank": "Mega",
+      "HP": "1870",
+      "SP": "210",
+      "Atk": "193",
+      "Int": "198",
+      "Def": "178",
+      "Spd": "198",
+      "Skill": "When attacking, 10% chance to inflict Poison status effect."
+   },
+   "Lotusmon": {
+      "Rank": "Mega",
+      "HP": "1330",
+      "SP": "252",
+      "Atk": "113",
+      "Int": "277",
+      "Def": "153",
+      "Spd": "227",
+      "Skill": "Full immunity to Poison."
+   },
+   "Imperialdramon PM": {
+      "Rank": "Super Ult",
+      "HP": "2070",
+      "SP": "212",
+      "Atk": "203",
+      "Int": "203",
+      "Def": "203",
+      "Spd": "207",
+      "Skill": "When you have the attribute disadvantage, reduce damage recevied by 15%."
+   },
+   "Omnimon": {
+      "Rank": "Super Ult",
+      "HP": "2270",
+      "SP": "143",
+      "Atk": "272",
+      "Int": "173",
+      "Def": "227",
+      "Spd": "193",
+      "Skill": "Increase SPD by 10%, and increase damage dealt from fire and water skills by 10%."
+   },
+   "Omnimon Zwart": {
+      "Rank": "Super Ult",
+      "HP": "1980",
+      "SP": "188",
+      "Atk": "207",
+      "Int": "212",
+      "Def": "257",
+      "Spd": "173",
+      "Skill": "Increase DEF by 10%, and increase damage dealt from water and dark skills by 10%."
+   },
+   "Belphemon RM": {
+      "Rank": "Super Ult",
+      "HP": "2370",
+      "SP": "123",
+      "Atk": "311",
+      "Int": "148",
+      "Def": "227",
+      "Spd": "189",
+      "Skill": "When attacking, 30% chance to inflict Death status effect If the target is Perfect level or below."
+   },
+   "Lucemon SM": {
+      "Rank": "Super Ult",
+      "HP": "1880",
+      "SP": "237",
+      "Atk": "128",
+      "Int": "297",
+      "Def": "168",
+      "Spd": "217",
+      "Skill": "When you receive magic attacks, 10% of the damage is converted to HP."
+   },
+   "Flamedramon": {
+      "Rank": "Armor",
+      "HP": "1670",
+      "SP": "147",
+      "Atk": "168",
+      "Int": "138",
+      "Def": "148",
+      "Spd": "192",
+      "Skill": "When HP is below 50%, ATK is increased by 20%."
+   },
+   "Magnamon": {
+      "Rank": "Armor",
+      "HP": "1730",
+      "SP": "173",
+      "Atk": "222",
+      "Int": "202",
+      "Def": "272",
+      "Spd": "163",
+      "Skill": "10% chance to reduce received damage by 30%."
+   },
+   "Rapidmon (Armor)": {
+      "Rank": "Armor",
+      "HP": "1630",
+      "SP": "163",
+      "Atk": "212",
+      "Int": "212",
+      "Def": "242",
+      "Spd": "163",
+      "Skill": "Restore 3% of maximum HP & SP every turn."
+   }
+}
